@@ -1,0 +1,9 @@
+[
+    { "idPosition": 1, "positionName": "Goalkeeper (GK)" },
+    { "idPosition": 2, "positionName": "Right Fullback (RB)" },
+    { "idPosition": 3, "positionName": "Center Back (CB)" },
+    { "idPosition": 4, "positionName": "Center Midfield (CM)" },
+    { "idPosition": 5, "positionName": "Right Midfield/Wing (RM)" },
+    { "idPosition": 6, "positionName": "Forward (F)" },
+    { "idPosition": 7, "positionName": "Left Midfield/Wing (LM)" }
+]

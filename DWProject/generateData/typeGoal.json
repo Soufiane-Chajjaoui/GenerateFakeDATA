@@ -1,0 +1,10 @@
+[
+  { "id": 1, "libelle": "Penalty" },
+  { "id": 2, "libelle": "Header" },
+  { "id": 3, "libelle": "Free Kick" },
+  { "id": 4, "libelle": "Tap-in" },
+  { "id": 5, "libelle": "Long-range Shot" },
+  { "id": 6, "libelle": "Solo Run" },
+  { "id": 7, "libelle": "Chipped Goal" },
+  { "id": 8, "libelle": "Volley" }
+]
