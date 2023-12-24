@@ -1,0 +1,68 @@
+[
+    {
+      "idEntraineurPost": 1,
+      "Role": "Entraîneur Principal",
+      "Responsibilities": "Overall team management and strategy",
+      "Specialization": null
+    },
+    {
+      "idEntraineurPost": 2,
+      "Role": "Assistant Entraîneur",
+      "Responsibilities": "Supports the head coach in various aspects",
+      "Specialization": null
+    },
+    {
+      "idEntraineurPost": 3,
+      "Role": "Entraîneur des Gardiens",
+      "Responsibilities": "Focuses on training and developing goalkeepers",
+      "Specialization": "Goalkeeping"
+    },
+    {
+      "idEntraineurPost": 4,
+      "Role": "Entraîneur de la Condition Physique",
+      "Responsibilities": "Responsible for physical conditioning of players",
+      "Specialization": "Fitness"
+    },
+    {
+      "idEntraineurPost": 5,
+      "Role": "Entraîneur de Développement de la Jeunesse",
+      "Responsibilities": "Works with the youth academy for player development",
+      "Specialization": "Youth Development"
+    },
+    {
+      "idEntraineurPost": 6,
+      "Role": "Directeur Technique/Directeur du Football",
+      "Responsibilities": "Oversees technical aspects, scouting, and recruitment",
+      "Specialization": "Technical"
+    },
+    {
+      "idEntraineurPost": 7,
+      "Role": "Analyste Tactique",
+      "Responsibilities": "Analyzes match footage and provides insights",
+      "Specialization": "Tactics"
+    },
+    {
+      "idEntraineurPost": 8,
+      "Role": "Entraîneur des Coups de Pied Arrêtés",
+      "Responsibilities": "Designs and practices set-piece plays",
+      "Specialization": "Set-Pieces"
+    },
+    {
+      "idEntraineurPost": 9,
+      "Role": "Psychologue Sportif",
+      "Responsibilities": "Works on mental aspects of the game",
+      "Specialization": "Sports Psychology"
+    },
+    {
+      "idEntraineurPost": 10,
+      "Role": "Personnel Médical",
+      "Responsibilities": "Physiotherapists and team doctors",
+      "Specialization": "Medical"
+    },
+    {
+      "idEntraineurPost": 11,
+      "Role": "Language Coach",
+      "Responsibilities": "Assists players in language acquisition for better team communication",
+      "Specialization": "Language"
+    }
+]
