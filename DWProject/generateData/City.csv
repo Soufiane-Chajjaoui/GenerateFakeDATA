@@ -1,0 +1,351 @@
+idCountry , CityName , idCountry
+1,Johnsonbury,54
+3,Huelmouth,52
+5,North Cleveland,44
+7,North Maurice,20
+9,East Isiahton,56
+11,South Jerrellfurt,5
+13,South Deedee,2
+15,Margeryshire,5
+17,Sebastianfort,23
+19,Olenville,57
+21,Lake Blairtown,7
+23,Russelmouth,72
+25,Cedrickmouth,63
+27,Raymonland,16
+29,North Ezra,52
+31,Keelingchester,40
+33,West Garryhaven,19
+35,South Janinaton,62
+37,East Deanchester,26
+39,Rachelhaven,46
+41,North Santos,4
+43,New Meta,9
+45,Hillsport,64
+47,South Erichville,45
+49,South Marty,12
+51,Lake Dennis,61
+53,Padbergborough,71
+55,Fostermouth,41
+57,Medhurstview,61
+59,Marvellafurt,39
+61,South Bess,22
+63,Honghaven,17
+65,Wilkinsonbury,25
+67,South Alica,7
+69,Auerfort,23
+71,Donettaside,36
+73,Hermannmouth,20
+75,West Adan,27
+77,Port Beula,56
+79,Jacobsonburgh,15
+81,Maymeland,43
+83,South Lukeberg,63
+85,Mrazville,57
+87,Hageneshaven,23
+89,Edwardoton,55
+91,West Alphonsoview,5
+93,West Beulah,10
+95,West Marlysshire,10
+97,East Tyrone,70
+99,East Violette,39
+101,East Lindsey,69
+103,Uptonside,10
+105,West Errol,13
+107,Port Ronview,47
+109,Cartwrightland,23
+111,Lake Marcelineton,2
+113,Jamesville,65
+115,Bernardoport,15
+117,North Majorshire,14
+119,Tameikafurt,25
+121,Dachhaven,59
+123,West Jesenia,51
+125,Port Raymundoport,13
+127,Fumikochester,4
+129,New Andyburgh,58
+131,Stiedemannview,20
+133,South Gordon,71
+135,Hipolitoville,40
+137,Lake Jona,40
+139,Kuvalismouth,57
+141,Lake Kailaland,29
+143,New Ricobury,26
+145,South Olen,3
+147,East Coy,47
+149,West Hobertshire,15
+151,East Rolland,31
+153,Jestineville,59
+155,Port Sharen,64
+157,Alethabury,58
+159,Lake Garthchester,44
+161,West Bryceborough,28
+163,Wizaberg,52
+165,Stantonland,71
+167,Brownland,16
+169,Schummberg,8
+171,Creminstad,63
+173,Yukohaven,29
+175,Domingofort,64
+177,Welchside,12
+179,Opheliafurt,36
+181,Murazikville,27
+183,South Deloraside,52
+185,South Gene,46
+187,North Rona,44
+189,West Bennett,22
+191,West Moshehaven,58
+193,Tanyaton,58
+195,Lake Mathewbury,54
+197,Trinidadport,14
+199,North Melisa,61
+201,West Stephan,18
+203,North Williamsfort,69
+205,West Demarcusborough,9
+207,Lake Verlenebury,14
+209,Port Faustofurt,48
+211,Shenamouth,46
+213,Marionhaven,62
+215,North Sangfort,48
+217,Deandreaberg,12
+219,Lindport,39
+221,Lake Ona,62
+223,East Cecil,2
+225,East Cary,51
+227,South Ruebentown,45
+229,Lanahaven,61
+231,Kleinchester,71
+233,Port Nicolhaven,54
+235,New Lucyfurt,69
+237,Lake Cherlynville,4
+239,Port Mimi,57
+241,Mylesfurt,36
+243,South Shenika,5
+245,Port Leonel,24
+247,Lemkehaven,36
+249,Balistreriport,4
+251,Lake Emelineland,60
+253,Keenantown,47
+255,Port Domingo,22
+257,Gutkowskifurt,3
+259,West Alec,37
+261,Bevhaven,61
+263,Port Americafurt,42
+265,Flatleyville,47
+267,North Shanaetown,7
+269,Kovacekland,55
+271,East Angeloton,4
+273,East Geneviveville,21
+275,Keeleytown,67
+277,Goyetteborough,51
+279,South Oneida,60
+281,Kleinshire,35
+283,Waelchiburgh,51
+285,South Gertie,60
+287,Mannmouth,2
+289,New Clarissa,4
+291,East Birgitbury,7
+293,Wittingstad,37
+295,Lake Rayeton,41
+297,South Humberto,62
+299,Jameshaven,20
+301,Kertzmannberg,13
+303,New Dexter,65
+305,Rempelshire,16
+307,Reichertport,50
+309,Joehaven,5
+311,Stefaniside,68
+313,East Grayce,23
+315,East Leeannview,70
+317,North Guadalupe,28
+319,New Eartha,43
+321,Scotborough,13
+323,Jefferyhaven,37
+325,Quitzonmouth,6
+327,Genaburgh,67
+329,Raleighside,59
+331,Mayerttown,36
+333,North Macland,64
+335,Strosinchester,46
+337,Hilpertmouth,64
+339,South Mackfort,38
+341,East Francesco,12
+343,Bauchmouth,49
+345,East Raylene,24
+347,North Pedro,41
+349,Port Kerry,9
+351,Lake Burlville,39
+353,Lake Adelaidaton,30
+355,New Ivory,53
+357,North Elizbeth,61
+359,Jonesmouth,69
+361,Rubenshire,23
+363,Hollisville,41
+365,West Dannietown,24
+367,Almedachester,61
+369,Moenmouth,52
+371,South Darrellchester,24
+373,Lake Lorrine,11
+375,Wardfurt,69
+377,New Carleyville,6
+379,West Crissy,7
+381,Kautzerport,56
+383,Champlinburgh,56
+385,Valentinefort,56
+387,Abrahamstad,72
+389,Port Lamarborough,2
+391,Brakusborough,64
+393,New Lindseyfort,7
+395,Lake Yolanda,40
+397,East Leo,59
+399,West Dreama,34
+401,Blickberg,53
+403,Lake Sangport,35
+405,North Rhona,62
+407,New Pamfurt,64
+409,Lake Tafort,45
+411,Glennaview,22
+413,Titustown,48
+415,Ferryville,10
+417,Lake Jayburgh,10
+419,Kreigerchester,6
+421,Port Michelinaborough,32
+423,New Krisfurt,7
+425,Lake Grantview,67
+427,Taribury,27
+429,Riceburgh,49
+431,Lake Marianohaven,46
+433,Lake Cythia,6
+435,Port Tobiastown,72
+437,Lake Tresaborough,66
+439,Port Rickie,55
+441,Modestaborough,72
+443,Emardchester,39
+445,East Marlineshire,67
+447,Lake Bartbury,26
+449,East Essiefort,64
+451,Lake Skyeview,5
+453,Binsborough,57
+455,New Markmouth,50
+457,West Roxy,16
+459,Auerberg,9
+461,South Florene,38
+463,Dannaberg,18
+465,Chetshire,29
+467,Wizashire,14
+469,Mooreshire,47
+471,Mrazview,53
+473,South Laverne,42
+475,Port Omertown,65
+477,Lake Jacquechester,64
+479,North Russelhaven,44
+481,Johnstonfort,6
+483,Annaleeport,65
+485,East Helene,70
+487,North Shaniceport,60
+489,Port Ivanaport,16
+491,Gottliebtown,70
+493,East Trevor,25
+495,Port Nevahaven,18
+497,Abernathytown,21
+499,Lake Mervinfurt,11
+501,New Mac,3
+503,Tobieshire,22
+505,Lake Robland,42
+507,Tressaville,37
+509,New Agustinachester,66
+511,Chancemouth,32
+513,East Johnsieside,26
+515,Lefflerview,34
+517,Burtview,23
+519,Colemouth,46
+521,Port Cinderella,13
+523,West Oleviaburgh,70
+525,North Fletcher,2
+527,East Wyattstad,10
+529,Malcolmfurt,54
+531,East Calandramouth,40
+533,Lake Zackaryburgh,53
+535,Port Lavelle,7
+537,New Joeymouth,51
+539,Port Veolaview,40
+541,North Meredith,37
+543,South Harvey,41
+545,East Lanellstad,17
+547,North Trinidad,24
+549,Dericktown,52
+551,Anthonyton,40
+553,Tamikoland,39
+555,Port Michaleburgh,5
+557,Mitzishire,46
+559,Predovicstad,3
+561,Aufderharview,49
+563,McCulloughfurt,8
+565,New Reynalda,27
+567,New Rufus,58
+569,South Murrayshire,70
+571,Phungshire,9
+573,Vanettafurt,51
+575,North Adrian,55
+577,Feeneyside,47
+579,New Nickolasfort,21
+581,Bahringerberg,6
+583,West Dianchester,36
+585,New Marvin,49
+587,Tremblayshire,20
+589,Cruickshankberg,15
+591,New Darcybury,10
+593,East Tonya,48
+595,Lake Neilmouth,1
+597,Kiehnchester,72
+599,Margueriteborough,56
+601,Cassinstad,11
+603,Powlowskitown,54
+605,Port Milesfurt,55
+607,Rogahnshire,3
+609,Terryton,54
+611,Kohlerland,31
+613,South Billiebury,53
+615,Port Charlsie,14
+617,New Stephan,20
+619,Shalonfurt,25
+621,Haagborough,7
+623,West Amirafort,38
+625,Fisherville,65
+627,Mayershire,72
+629,Lake Lloydtown,68
+631,Coraville,33
+633,Dewaynemouth,68
+635,North Damionhaven,42
+637,Port Magaret,21
+639,Port Errol,12
+641,Reillyfort,15
+643,Lavetaport,3
+645,Sanfordbury,56
+647,South Rosendo,57
+649,Kassulkestad,47
+651,Hobertberg,68
+653,Zulaufmouth,2
+655,South Alfonso,46
+657,Port Saundra,21
+659,McCluremouth,67
+661,New Juliennehaven,11
+663,North Seth,38
+665,Sethborough,4
+667,West Wynellbury,49
+669,Stokesfort,69
+671,Moorefurt,70
+673,Steuberbury,44
+675,West Tynisha,67
+677,Luettgenland,31
+679,North Darenside,7
+681,Blickberg,65
+683,Turnermouth,61
+685,Lake Eleonore,8
+687,South Kierstenside,11
+689,Rosendofort,50
+691,Port Tyfurt,24
+693,North Rodolfo,21
+695,New Newton,8
+697,Lyndiabury,30
+699,Wardside,31

@@ -1,196 +1,81 @@
-idCountry , CountryName0,Latvia
-1,Ireland
-2,Egypt
-3,Singapore
-4,Dominica
-5,Kazakhstan
-6,Portugal
-7,South Africa
-8,Kazakhstan
-9,Bulgaria
-10,Panama
-11,Ukraine
-12,Greece
-13,Israel
-14,Ukraine
-15,New Zealand
-16,Ecuador
-17,Jordan
-18,Senegal
-19,Barbados
-20,United Arab Emirates
-21,Congo, Democratic Republic of the
-22,Serbia
-23,Pakistan
-24,Angola
-25,Sierra Leone
-26,Burundi
-27,Poland
-28,Israel
-29,Togo
-30,Korea (Democratic People's Republic of)
-31,Germany
-32,Lithuania
-33,Argentina
-34,Latvia
-35,Liechtenstein
-36,Solomon Islands
-37,Germany
-38,Turkmenistan
-39,Korea, Republic of
-40,Iceland
-41,Argentina
-42,Mauritius
-43,Dominica
-44,Panama
-45,Luxembourg
-46,Haiti
-47,Kazakhstan
-48,Sri Lanka
-49,Estonia
-50,Jordan
-51,Suriname
-52,Burundi
-53,Saint Kitts and Nevis
-54,Indonesia
-55,Guinea-Bissau
-56,Cuba
-57,Peru
-58,Syrian Arab Republic
-59,Russian Federation
-60,Senegal
-61,Bahrain
-62,Burkina Faso
-63,Fiji
-64,Mongolia
-65,Central African Republic
-66,Solomon Islands
-67,Slovakia
-68,Albania
-69,Palau
-70,Belarus
-71,Romania
-72,Slovenia
-73,Singapore
-74,Tajikistan
-75,Brunei Darussalam
-76,Jamaica
-77,Gabon
-78,Mongolia
-79,Malta
-80,Benin
-81,Hungary
-82,Burundi
-83,Israel
-84,Namibia
-85,New Zealand
-86,Viet Nam
-87,Somalia
-88,Mali
-89,Dominica
-90,Estonia
-91,Sri Lanka
-92,Libya
-93,Estonia
-94,Nigeria
-95,Georgia
-96,Turkey
-97,Mongolia
-98,Haiti
-99,Tuvalu
-100,Denmark
-101,Croatia
-102,Myanmar
-103,Lebanon
-104,Cuba
-105,Namibia
-106,Czechia
-107,Ghana
-108,Congo, Democratic Republic of the
-109,Israel
-110,Peru
-111,United States of America
-112,Central African Republic
-113,Sierra Leone
-114,Kiribati
-115,United Kingdom of Great Britain and Northern Ireland
-116,Armenia
-117,Andorra
-118,Kuwait
-119,Zimbabwe
-120,Cameroon
-121,Israel
-122,South Africa
-123,Qatar
-124,Pakistan
-125,Luxembourg
-126,Liberia
-127,Germany
-128,Tunisia
-129,Colombia
-130,Liberia
-131,Ethiopia
-132,Liechtenstein
-133,Comoros
-134,South Sudan
-135,Burkina Faso
-136,Slovenia
-137,Mozambique
-138,Mongolia
-139,Tonga
-140,Madagascar
-141,Egypt
-142,Somalia
-143,Costa Rica
-144,Kazakhstan
-145,Montenegro
-146,Seychelles
-147,United Kingdom of Great Britain and Northern Ireland
-148,Zimbabwe
-149,Bolivia (Plurinational State of)
-150,Eswatini
-151,Kyrgyzstan
-152,Saint Lucia
-153,Oman
-154,Congo
-155,United States of America
-156,Panama
-157,Venezuela (Bolivarian Republic of)
-158,Cuba
-159,Poland
-160,Trinidad and Tobago
-161,Venezuela (Bolivarian Republic of)
-162,Timor-Leste
-163,Canada
-164,Croatia
-165,Papua New Guinea
-166,Honduras
-167,Qatar
-168,Congo
-169,Montenegro
-170,Belgium
-171,Guinea
-172,Suriname
-173,Bangladesh
-174,Samoa
-175,Singapore
-176,Tanzania, United Republic of
-177,Grenada
-178,Togo
-179,Greece
-180,Australia
-181,Madagascar
-182,Jordan
-183,Croatia
-184,Turkmenistan
-185,Singapore
-186,Marshall Islands
-187,Monaco
-188,Bahamas
-189,Liechtenstein
-190,Rwanda
-191,Australia
-192,Albania
-193,Slovenia
-194,Sao Tome and Principe
-195,South Africa
+idCountry , CountryName
+1,India
+2,Moldova, Republic of
+3,Sweden
+4,Bhutan
+5,United States of America
+6,Angola
+7,Egypt
+8,Luxembourg
+9,Korea, Republic of
+10,Egypt
+11,Trinidad and Tobago
+12,Timor-Leste
+13,Eswatini
+14,Sri Lanka
+15,Nicaragua
+16,Bahamas
+17,Guatemala
+18,Albania
+19,Czechia
+20,Ecuador
+21,Bahrain
+22,South Africa
+23,Georgia
+24,Mali
+25,Marshall Islands
+26,Kyrgyzstan
+27,Slovenia
+28,Ethiopia
+29,Kuwait
+30,Eritrea
+31,Mauritius
+32,Belgium
+33,Italy
+34,Cabo Verde
+35,Uganda
+36,Tanzania, United Republic of
+37,Iceland
+38,Tunisia
+39,Russian Federation
+40,Slovakia
+41,Iceland
+42,Bangladesh
+43,Mauritania
+44,Comoros
+45,Singapore
+46,Seychelles
+47,Sierra Leone
+48,Nicaragua
+49,Benin
+50,Angola
+51,Eritrea
+52,Rwanda
+53,Morocco
+54,Liberia
+55,Lebanon
+56,Sudan
+57,Russian Federation
+58,Slovakia
+59,Haiti
+60,Sudan
+61,Syrian Arab Republic
+62,Croatia
+63,Bosnia and Herzegovina
+64,Seychelles
+65,Sierra Leone
+66,Pakistan
+67,Hungary
+68,United States of America
+69,Qatar
+70,Ireland
+71,Uruguay
+72,Algeria
+73,China
+74,Kiribati
+75,Zimbabwe
+76,Moldova, Republic of
+77,Ireland
+78,Sudan
+79,Chad
+80,Bahamas
