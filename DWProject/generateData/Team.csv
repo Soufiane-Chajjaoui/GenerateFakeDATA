@@ -1,801 +1,801 @@
 idTeam , TeamName , createAt , idCaptain , idEntraineur
-1,Indiana bearsfootball Club 1833,1833-03-14,15,4
-1,Hawaii zebrasfootball Club 1980,1980-04-12,30,8
-1,Illinois vixensfootball Club 1967,1967-05-12,45,12
-1,Arkansas druidsfootball Club 1878,1878-01-08,60,16
-1,Texas dogsfootball Club 1833,1833-04-08,75,20
-1,Pennsylvania conspiratorsfootball Club 1963,1963-03-14,90,24
-1,Rhode Island goosesfootball Club 1844,1844-10-28,105,28
-1,South Carolina horsesfootball Club 1980,1980-06-19,120,32
-1,Wisconsin exorcistsfootball Club 1883,1883-07-13,135,36
-1,South Dakota druidsfootball Club 1875,1875-01-31,150,40
-2,New Hampshire geesefootball Club 1924,1924-10-27,165,44
-2,Nebraska spiritsfootball Club 1878,1878-05-02,180,48
-2,Colorado griffinsfootball Club 1936,1936-11-29,195,52
-2,Connecticut goblinsfootball Club 1860,1860-07-10,210,56
-2,New Hampshire dogsfootball Club 1837,1837-04-24,225,60
-2,Arkansas exorcistsfootball Club 1962,1962-03-07,240,64
-2,Hawaii tigersfootball Club 1891,1891-05-19,255,68
-2,Kentucky chimerasfootball Club 1856,1856-01-28,270,72
-2,Missouri prophetsfootball Club 1903,1903-06-12,285,76
-2,Hawaii sheepfootball Club 1876,1876-05-27,300,80
-3,Kansas horsesfootball Club 1861,1861-04-21,315,84
-3,Mississippi tigersfootball Club 1836,1836-02-07,330,88
-3,Texas werewolvesfootball Club 1894,1894-10-22,345,92
-3,New Mexico chimerasfootball Club 1837,1837-07-12,360,96
-3,Kentucky elephantsfootball Club 1933,1933-02-26,375,100
-3,California bearsfootball Club 1859,1859-03-08,390,104
-3,Connecticut enchantersfootball Club 1966,1966-06-03,405,108
-3,North Carolina enchantersfootball Club 1929,1929-04-24,420,112
-3,Michigan black catsfootball Club 1857,1857-08-23,435,116
-3,North Carolina dwarvesfootball Club 1953,1953-08-19,450,120
-4,Connecticut goosesfootball Club 1864,1864-01-13,465,124
-4,Arkansas crowsfootball Club 1989,1989-02-13,480,128
-4,New Jersey birdsfootball Club 1980,1980-03-23,495,132
-4,California batsfootball Club 1897,1897-02-05,510,136
-4,West Virginia griffinsfootball Club 1923,1923-01-17,525,140
-4,Hawaii peoplefootball Club 1849,1849-01-03,540,144
-4,Utah goblinsfootball Club 1918,1918-08-22,555,148
-4,Pennsylvania sorcerorsfootball Club 1933,1933-01-25,570,152
-4,Nevada werewolvesfootball Club 1932,1932-05-30,585,156
-4,West Virginia bansheesfootball Club 1979,1979-04-20,600,160
-5,Washington ducksfootball Club 1995,1995-01-16,615,164
-5,Alaska oraclesfootball Club 1990,1990-03-28,630,168
-5,Nevada werewolvesfootball Club 1947,1947-12-08,645,172
-5,Oklahoma conspiratorsfootball Club 1893,1893-05-08,660,176
-5,South Dakota spiritsfootball Club 1992,1992-08-07,675,180
-5,North Dakota sheepfootball Club 1871,1871-12-25,690,184
-5,Idaho vixensfootball Club 1951,1951-07-19,705,188
-5,Connecticut enchantersfootball Club 1867,1867-03-01,720,192
-5,Rhode Island wolvesfootball Club 1832,1832-08-03,735,196
-5,Georgia penguinsfootball Club 1868,1868-09-16,750,200
-6,Iowa elephantsfootball Club 1901,1901-01-16,765,204
-6,New Hampshire lionsfootball Club 1894,1894-02-06,780,208
-6,Arizona buffalofootball Club 1951,1951-06-16,795,212
-6,North Carolina spiritsfootball Club 1930,1930-12-02,810,216
-6,Massachusetts zombiesfootball Club 1825,1825-04-18,825,220
-6,New York chimerasfootball Club 1956,1956-02-24,840,224
-6,Michigan tigersfootball Club 1866,1866-10-24,855,228
-6,Vermont pigsfootball Club 1920,1920-04-30,870,232
-6,Texas kangaroosfootball Club 1934,1934-09-16,885,236
-6,New Mexico oxenfootball Club 1858,1858-12-23,900,240
-7,Tennessee spidersfootball Club 1948,1948-12-20,915,244
-7,California buffalofootball Club 1939,1939-09-28,930,248
-7,Illinois spidersfootball Club 1966,1966-10-30,945,252
-7,Minnesota exorcistsfootball Club 1905,1905-10-05,960,256
-7,Florida dwarvesfootball Club 1866,1866-08-07,975,260
-7,Hawaii ghostsfootball Club 1975,1975-05-27,990,264
-7,Idaho spidersfootball Club 1882,1882-04-27,1005,268
-7,South Carolina vampiresfootball Club 1889,1889-09-28,1020,272
-7,Oklahoma tigersfootball Club 1918,1918-01-29,1035,276
-7,South Dakota batsfootball Club 1890,1890-10-25,1050,280
-8,West Virginia batsfootball Club 1977,1977-01-28,1065,284
-8,Utah elephantsfootball Club 1904,1904-02-05,1080,288
-8,Maryland fishesfootball Club 1918,1918-12-02,1095,292
-8,California ogresfootball Club 1973,1973-10-31,1110,296
-8,Iowa spiritsfootball Club 1838,1838-04-15,1125,300
-8,South Carolina chimerasfootball Club 1853,1853-10-18,1140,304
-8,Louisiana pigsfootball Club 1967,1967-05-29,1155,308
-8,Texas kangaroosfootball Club 1917,1917-05-27,1170,312
-8,Nevada kangaroosfootball Club 1868,1868-09-19,1185,316
-8,Alabama vixensfootball Club 1948,1948-08-01,1200,320
-9,Rhode Island worshipersfootball Club 1947,1947-09-28,1215,324
-9,Virginia nemesisfootball Club 1878,1878-11-22,1230,328
-9,Connecticut druidsfootball Club 1863,1863-12-06,1245,332
-9,Hawaii chimerasfootball Club 1824,1824-05-23,1260,336
-9,Iowa owlsfootball Club 1872,1872-04-30,1275,340
-9,Delaware chickensfootball Club 1891,1891-06-02,1290,344
-9,Iowa tigersfootball Club 1913,1913-07-11,1305,348
-9,South Dakota giantsfootball Club 1825,1825-09-26,1320,352
-9,Ohio wolvesfootball Club 1866,1866-11-25,1335,356
-9,Indiana gnomesfootball Club 1956,1956-08-17,1350,360
-10,Washington conspiratorsfootball Club 1895,1895-03-22,1365,364
-10,Alaska catsfootball Club 1984,1984-11-16,1380,368
-10,Florida conspiratorsfootball Club 1871,1871-10-16,1395,372
-10,Washington horsesfootball Club 1911,1911-06-15,1410,376
-10,Maryland foesfootball Club 1937,1937-09-23,1425,380
-10,Colorado ducksfootball Club 1924,1924-09-26,1440,384
-10,Wyoming foxesfootball Club 1996,1996-03-03,1455,388
-10,Illinois goosesfootball Club 1993,1993-01-14,1470,392
-10,Colorado elephantsfootball Club 1860,1860-10-30,1485,396
-10,Illinois geesefootball Club 1991,1991-12-08,1500,400
-11,South Carolina sonsfootball Club 1943,1943-08-11,1515,404
-11,Iowa goatsfootball Club 1828,1828-10-15,1530,408
-11,Illinois oxenfootball Club 1965,1965-09-11,1545,412
-11,Minnesota antsfootball Club 1927,1927-03-04,1560,416
-11,New Jersey spiritsfootball Club 1851,1851-04-15,1575,420
-11,Alaska worshipersfootball Club 1866,1866-10-07,1590,424
-11,South Dakota foesfootball Club 1964,1964-07-28,1605,428
-11,Wyoming monkeysfootball Club 1976,1976-04-28,1620,432
-11,Michigan gnomesfootball Club 1870,1870-02-17,1635,436
-11,Minnesota prophetsfootball Club 1856,1856-04-22,1650,440
-12,Illinois birdsfootball Club 1886,1886-12-14,1665,444
-12,Pennsylvania dolphinsfootball Club 1933,1933-06-14,1680,448
-12,New Jersey exorcistsfootball Club 1939,1939-07-26,1695,452
-12,New York goblinsfootball Club 1994,1994-10-07,1710,456
-12,Virginia ogresfootball Club 1945,1945-06-28,1725,460
-12,Washington ducksfootball Club 1894,1894-07-01,1740,464
-12,Oklahoma bearsfootball Club 1869,1869-11-05,1755,468
-12,North Carolina fishesfootball Club 1827,1827-07-19,1770,472
-12,Washington vixensfootball Club 1874,1874-08-13,1785,476
-12,Iowa enchantersfootball Club 1929,1929-03-26,1800,480
-13,New Jersey kangaroosfootball Club 1990,1990-07-22,1815,484
-13,Hawaii oxenfootball Club 1985,1985-05-24,1830,488
-13,Kentucky dolphinsfootball Club 1876,1876-01-07,1845,492
-13,Iowa buffalofootball Club 1854,1854-06-24,1860,496
-13,Minnesota penguinsfootball Club 1861,1861-03-26,1875,500
-13,Iowa antsfootball Club 1982,1982-02-23,1890,504
-13,New York enchantersfootball Club 1853,1853-09-23,1905,508
-13,Kentucky spidersfootball Club 1894,1894-07-04,1920,512
-13,Kentucky pigsfootball Club 1870,1870-01-22,1935,516
-13,Maine goosesfootball Club 1867,1867-09-21,1950,520
-14,North Carolina catsfootball Club 1922,1922-09-24,1965,524
-14,South Carolina frogsfootball Club 1953,1953-10-02,1980,528
-14,Indiana black catsfootball Club 1907,1907-09-24,1995,532
-14,Ohio spiritsfootball Club 1997,1997-07-04,2010,536
-14,Tennessee monkeysfootball Club 1825,1825-07-18,2025,540
-14,Delaware buffalofootball Club 1918,1918-04-19,2040,544
-14,Kansas lionsfootball Club 1883,1883-10-18,2055,548
-14,Arkansas chickensfootball Club 1857,1857-07-26,2070,552
-14,Wyoming wolvesfootball Club 1909,1909-10-26,2085,556
-14,Arkansas giantsfootball Club 1989,1989-05-18,2100,560
-15,Maine pigsfootball Club 1955,1955-08-06,2115,564
-15,Minnesota frogsfootball Club 1870,1870-08-18,2130,568
-15,New York werewolvesfootball Club 1924,1924-06-23,2145,572
-15,Rhode Island enchantersfootball Club 1840,1840-11-08,2160,576
-15,Michigan werewolvesfootball Club 1912,1912-02-12,2175,580
-15,Arizona birdsfootball Club 1923,1923-05-06,2190,584
-15,Iowa ogresfootball Club 1990,1990-08-19,2205,588
-15,Nebraska zebrasfootball Club 1877,1877-05-04,2220,592
-15,West Virginia beesfootball Club 1829,1829-02-24,2235,596
-15,Texas worshipersfootball Club 1902,1902-07-15,2250,600
-16,Maryland dwarvesfootball Club 1884,1884-04-27,2265,604
-16,Alaska buffalofootball Club 1888,1888-05-26,2280,608
-16,New Jersey lionsfootball Club 1936,1936-12-23,2295,612
-16,Wyoming pigsfootball Club 1962,1962-12-27,2310,616
-16,Delaware spiritsfootball Club 1962,1962-07-28,2325,620
-16,South Carolina cattlefootball Club 1972,1972-04-28,2340,624
-16,North Dakota buffalofootball Club 1836,1836-04-09,2355,628
-16,Iowa oxenfootball Club 1843,1843-11-19,2370,632
-16,South Dakota bearsfootball Club 1876,1876-01-27,2385,636
-16,Massachusetts rabbitsfootball Club 1994,1994-01-17,2400,640
-17,Indiana bearsfootball Club 1901,1901-10-06,2415,644
-17,Illinois penguinsfootball Club 1863,1863-03-28,2430,648
-17,New Hampshire conspiratorsfootball Club 1897,1897-07-08,2445,652
-17,South Carolina beesfootball Club 1842,1842-10-26,2460,656
-17,West Virginia horsesfootball Club 1957,1957-02-03,2475,660
-17,Texas ducksfootball Club 1906,1906-10-05,2490,664
-17,Indiana warlocksfootball Club 1976,1976-11-03,2505,668
-17,Alabama frogsfootball Club 1883,1883-11-20,2520,672
-17,Utah catsfootball Club 1952,1952-05-22,2535,676
-17,Missouri kangaroosfootball Club 1983,1983-05-11,2550,680
-18,Florida buffalofootball Club 1952,1952-10-21,2565,684
-18,Louisiana ogresfootball Club 1831,1831-12-07,2580,688
-18,Hawaii prophetsfootball Club 1933,1933-11-15,2595,692
-18,Maine ogresfootball Club 1946,1946-02-02,2610,696
-18,Oregon goatsfootball Club 1824,1824-04-14,2625,700
-18,North Carolina worshipersfootball Club 1892,1892-05-09,2640,704
-18,New Mexico bearsfootball Club 1844,1844-09-10,2655,708
-18,Texas lionsfootball Club 1963,1963-09-11,2670,712
-18,Colorado crowsfootball Club 1956,1956-06-04,2685,716
-18,Michigan batsfootball Club 1897,1897-12-04,2700,720
-19,Delaware lycanthropesfootball Club 1875,1875-12-08,2715,724
-19,Connecticut nemesisfootball Club 1907,1907-03-20,2730,728
-19,Kentucky prophetsfootball Club 1887,1887-12-09,2745,732
-19,New Jersey nemesisfootball Club 1878,1878-10-14,2760,736
-19,Montana sheepfootball Club 1867,1867-02-09,2775,740
-19,New York sheepfootball Club 1951,1951-05-03,2790,744
-19,New York prophetsfootball Club 1903,1903-11-02,2805,748
-19,Indiana kangaroosfootball Club 1864,1864-02-13,2820,752
-19,Alabama tigersfootball Club 1989,1989-01-29,2835,756
-19,New Mexico whalesfootball Club 1839,1839-11-16,2850,760
-20,Nebraska bearsfootball Club 1978,1978-12-09,2865,764
-20,Oregon ducksfootball Club 1854,1854-05-28,2880,768
-20,Illinois catsfootball Club 1856,1856-04-15,2895,772
-20,Delaware sheepfootball Club 1836,1836-06-07,2910,776
-20,Colorado bansheesfootball Club 1921,1921-06-15,2925,780
-20,Colorado druidsfootball Club 1909,1909-06-18,2940,784
-20,Kentucky geesefootball Club 1875,1875-01-26,2955,788
-20,Iowa birdsfootball Club 1999,1999-09-25,2970,792
-20,Connecticut zebrasfootball Club 1840,1840-08-31,2985,796
-20,West Virginia wolvesfootball Club 1862,1862-11-11,3000,800
-21,North Dakota crowsfootball Club 1992,1992-11-21,3015,804
-21,Michigan dolphinsfootball Club 1966,1966-10-01,3030,808
-21,Arkansas ghostsfootball Club 1954,1954-01-08,3045,812
-21,Rhode Island dogsfootball Club 1973,1973-06-02,3060,816
-21,Montana griffinsfootball Club 1972,1972-12-23,3075,820
-21,Wyoming enchantersfootball Club 1893,1893-02-20,3090,824
-21,California werewolvesfootball Club 1988,1988-10-16,3105,828
-21,Utah foxesfootball Club 1867,1867-02-04,3120,832
-21,Mississippi griffinsfootball Club 1924,1924-09-11,3135,836
-21,Hawaii warlocksfootball Club 1883,1883-05-26,3150,840
-22,New Mexico nemesisfootball Club 1981,1981-02-11,3165,844
-22,Montana vixensfootball Club 1883,1883-12-06,3180,848
-22,Iowa giantsfootball Club 1999,1999-08-27,3195,852
-22,Alabama fishesfootball Club 1850,1850-08-21,3210,856
-22,New Hampshire goosesfootball Club 1903,1903-04-16,3225,860
-22,Alabama goosesfootball Club 1884,1884-12-17,3240,864
-22,Florida warlocksfootball Club 1865,1865-11-04,3255,868
-22,California tigersfootball Club 1900,1900-11-08,3270,872
-22,Utah pigsfootball Club 1903,1903-12-12,3285,876
-22,Massachusetts monkeysfootball Club 1999,1999-04-04,3300,880
-23,Nevada peoplefootball Club 1928,1928-03-18,3315,884
-23,Massachusetts goblinsfootball Club 1838,1838-11-23,3330,888
-23,Colorado oxenfootball Club 1978,1978-12-02,3345,892
-23,New Jersey gnomesfootball Club 1911,1911-07-07,3360,896
-23,Arizona rabbitsfootball Club 1885,1885-08-26,3375,900
-23,New York geesefootball Club 1928,1928-04-04,3390,904
-23,Massachusetts ghostsfootball Club 1888,1888-10-22,3405,908
-23,Pennsylvania ghostsfootball Club 1830,1830-12-08,3420,912
-23,Oregon druidsfootball Club 1843,1843-01-12,3435,916
-23,Oklahoma crowsfootball Club 1996,1996-07-29,3450,920
-24,West Virginia warlocksfootball Club 1883,1883-12-25,3465,924
-24,Alabama cattlefootball Club 1851,1851-02-23,3480,928
-24,Hawaii chickensfootball Club 1951,1951-07-21,3495,932
-24,Connecticut dragonsfootball Club 1861,1861-12-19,3510,936
-24,Georgia elephantsfootball Club 1871,1871-05-13,3525,940
-24,South Carolina ogresfootball Club 1960,1960-05-21,3540,944
-24,Idaho antsfootball Club 1989,1989-08-08,3555,948
-24,Michigan zombiesfootball Club 1915,1915-05-28,3570,952
-24,Hawaii lionsfootball Club 1838,1838-01-22,3585,956
-24,Wyoming batsfootball Club 1944,1944-12-21,3600,960
-25,North Dakota exorcistsfootball Club 1918,1918-09-19,3615,964
-25,New York penguinsfootball Club 1835,1835-02-11,3630,968
-25,Hawaii spidersfootball Club 1830,1830-06-24,3645,972
-25,South Carolina elephantsfootball Club 1894,1894-11-25,3660,976
-25,Michigan nemesisfootball Club 1882,1882-12-26,3675,980
-25,Oklahoma geesefootball Club 1966,1966-03-29,3690,984
-25,Wyoming chickensfootball Club 1827,1827-01-30,3705,988
-25,Rhode Island tigersfootball Club 1952,1952-09-25,3720,992
-25,West Virginia penguinsfootball Club 1845,1845-01-01,3735,996
-25,Pennsylvania oraclesfootball Club 1978,1978-05-04,3750,1000
-26,Arizona foesfootball Club 1859,1859-12-10,3765,1004
-26,Utah spiritsfootball Club 1825,1825-11-11,3780,1008
-26,North Carolina elephantsfootball Club 1937,1937-08-26,3795,1012
-26,Missouri birdsfootball Club 1968,1968-10-12,3810,1016
-26,Colorado buffalofootball Club 1869,1869-06-15,3825,1020
-26,Utah goosesfootball Club 1932,1932-10-24,3840,1024
-26,Mississippi ghostsfootball Club 1885,1885-06-10,3855,1028
-26,New Mexico penguinsfootball Club 1839,1839-02-20,3870,1032
-26,Iowa vampiresfootball Club 1900,1900-09-27,3885,1036
-26,Mississippi worshipersfootball Club 1892,1892-04-03,3900,1040
-27,Mississippi goatsfootball Club 1923,1923-11-05,3915,1044
-27,Florida sonsfootball Club 1960,1960-05-21,3930,1048
-27,Arizona dogsfootball Club 1960,1960-12-01,3945,1052
-27,Vermont exorcistsfootball Club 1928,1928-08-15,3960,1056
-27,Ohio spidersfootball Club 1920,1920-11-19,3975,1060
-27,Montana tigersfootball Club 1960,1960-01-03,3990,1064
-27,Arizona werewolvesfootball Club 1967,1967-03-28,4005,1068
-27,Idaho elvesfootball Club 1933,1933-01-13,4020,1072
-27,New York exorcistsfootball Club 1916,1916-05-25,4035,1076
-27,South Carolina frogsfootball Club 1945,1945-07-17,4050,1080
-28,Arkansas monkeysfootball Club 1856,1856-07-26,4065,1084
-28,New Hampshire giantsfootball Club 1981,1981-06-10,4080,1088
-28,Arkansas griffinsfootball Club 1867,1867-05-17,4095,1092
-28,Connecticut sheepfootball Club 1865,1865-10-21,4110,1096
-28,Alabama bansheesfootball Club 1957,1957-03-21,4125,1100
-28,Mississippi batsfootball Club 1950,1950-05-24,4140,1104
-28,Michigan goblinsfootball Club 1868,1868-04-08,4155,1108
-28,South Carolina beesfootball Club 1863,1863-09-19,4170,1112
-28,Alaska chimerasfootball Club 1924,1924-08-23,4185,1116
-28,Massachusetts sonsfootball Club 1994,1994-06-03,4200,1120
-29,Missouri antsfootball Club 1959,1959-09-14,4215,1124
-29,Delaware buffalofootball Club 1855,1855-02-02,4230,1128
-29,Tennessee witchesfootball Club 1864,1864-04-08,4245,1132
-29,Wyoming exorcistsfootball Club 1981,1981-05-05,4260,1136
-29,New Hampshire penguinsfootball Club 1874,1874-04-05,4275,1140
-29,Arizona ghostsfootball Club 1995,1995-04-23,4290,1144
-29,Iowa vampiresfootball Club 1989,1989-05-30,4305,1148
-29,Mississippi goblinsfootball Club 1985,1985-12-24,4320,1152
-29,Georgia dwarvesfootball Club 1900,1900-02-01,4335,1156
-29,New York sorcerorsfootball Club 1845,1845-03-14,4350,1160
-30,Minnesota druidsfootball Club 1856,1856-06-10,4365,1164
-30,Oregon vixensfootball Club 1893,1893-02-28,4380,1168
-30,Maine kangaroosfootball Club 1849,1849-06-07,4395,1172
-30,Georgia vampiresfootball Club 1857,1857-10-22,4410,1176
-30,Utah lionsfootball Club 1883,1883-08-19,4425,1180
-30,Oregon pigsfootball Club 1932,1932-05-26,4440,1184
-30,West Virginia lycanthropesfootball Club 1945,1945-08-17,4455,1188
-30,Washington ghostsfootball Club 1961,1961-12-14,4470,1192
-30,Idaho catsfootball Club 1898,1898-01-08,4485,1196
-30,Idaho exorcistsfootball Club 1859,1859-06-19,4500,1200
-31,Florida geesefootball Club 1917,1917-11-05,4515,1204
-31,Massachusetts antsfootball Club 1931,1931-08-14,4530,1208
-31,Idaho antsfootball Club 1972,1972-11-12,4545,1212
-31,Vermont crowsfootball Club 1992,1992-09-13,4560,1216
-31,New Mexico conspiratorsfootball Club 1967,1967-05-03,4575,1220
-31,Colorado werewolvesfootball Club 1852,1852-09-04,4590,1224
-31,Nebraska cattlefootball Club 1961,1961-05-31,4605,1228
-31,Alabama dolphinsfootball Club 1887,1887-07-03,4620,1232
-31,Louisiana chimerasfootball Club 1848,1848-12-23,4635,1236
-31,Louisiana foxesfootball Club 1947,1947-05-07,4650,1240
-32,Washington crowsfootball Club 1901,1901-01-22,4665,1244
-32,Iowa vixensfootball Club 1844,1844-04-10,4680,1248
-32,New Hampshire vampiresfootball Club 1903,1903-03-20,4695,1252
-32,Illinois foesfootball Club 1987,1987-09-05,4710,1256
-32,Mississippi penguinsfootball Club 1990,1990-12-03,4725,1260
-32,Nevada griffinsfootball Club 1837,1837-08-23,4740,1264
-32,Idaho owlsfootball Club 1965,1965-02-18,4755,1268
-32,Louisiana birdsfootball Club 1934,1934-12-13,4770,1272
-32,South Dakota giantsfootball Club 1907,1907-02-28,4785,1276
-32,Nebraska cattlefootball Club 1841,1841-08-03,4800,1280
-33,New Mexico sheepfootball Club 1851,1851-08-14,4815,1284
-33,South Dakota buffalofootball Club 1898,1898-01-22,4830,1288
-33,Indiana worshipersfootball Club 1834,1834-10-29,4845,1292
-33,Maine goosesfootball Club 1904,1904-07-11,4860,1296
-33,Idaho chickensfootball Club 1827,1827-12-27,4875,1300
-33,Nevada giantsfootball Club 1848,1848-06-17,4890,1304
-33,Massachusetts chimerasfootball Club 1901,1901-02-17,4905,1308
-33,Wisconsin ghostsfootball Club 1837,1837-01-28,4920,1312
-33,Michigan zebrasfootball Club 1928,1928-08-09,4935,1316
-33,South Dakota lycanthropesfootball Club 1884,1884-10-15,4950,1320
-34,Indiana goblinsfootball Club 1885,1885-05-22,4965,1324
-34,New Hampshire lycanthropesfootball Club 1849,1849-03-21,4980,1328
-34,California gnomesfootball Club 1956,1956-02-12,4995,1332
-34,Wyoming oxenfootball Club 1921,1921-03-29,5010,1336
-34,Indiana worshipersfootball Club 1989,1989-12-17,5025,1340
-34,South Dakota bearsfootball Club 1905,1905-05-19,5040,1344
-34,Iowa rabbitsfootball Club 1968,1968-05-17,5055,1348
-34,North Carolina beesfootball Club 1846,1846-04-19,5070,1352
-34,Nevada dogsfootball Club 1865,1865-03-21,5085,1356
-34,South Carolina conspiratorsfootball Club 1893,1893-03-16,5100,1360
-35,Nevada sonsfootball Club 1905,1905-05-12,5115,1364
-35,Indiana vixensfootball Club 1990,1990-09-08,5130,1368
-35,California whalesfootball Club 1947,1947-07-22,5145,1372
-35,California worshipersfootball Club 1896,1896-06-21,5160,1376
-35,Maryland kangaroosfootball Club 1875,1875-04-03,5175,1380
-35,Kansas enchantersfootball Club 1969,1969-08-04,5190,1384
-35,Wyoming buffalofootball Club 1923,1923-09-13,5205,1388
-35,Utah prophetsfootball Club 1873,1873-09-10,5220,1392
-35,Utah werewolvesfootball Club 1903,1903-08-22,5235,1396
-35,Wyoming dolphinsfootball Club 1896,1896-08-11,5250,1400
-36,South Dakota rabbitsfootball Club 1995,1995-01-21,5265,1404
-36,Virginia vixensfootball Club 1984,1984-10-31,5280,1408
-36,Colorado dolphinsfootball Club 1880,1880-03-19,5295,1412
-36,New Hampshire rabbitsfootball Club 1852,1852-11-04,5310,1416
-36,Mississippi crowsfootball Club 1955,1955-05-11,5325,1420
-36,Colorado nemesisfootball Club 1870,1870-07-02,5340,1424
-36,North Carolina goblinsfootball Club 1953,1953-06-07,5355,1428
-36,West Virginia worshipersfootball Club 1929,1929-02-14,5370,1432
-36,Hawaii prophetsfootball Club 1871,1871-10-01,5385,1436
-36,New Mexico sheepfootball Club 1963,1963-11-06,5400,1440
-37,Alaska lycanthropesfootball Club 1900,1900-04-07,5415,1444
-37,Iowa goosesfootball Club 1916,1916-11-09,5430,1448
-37,Tennessee wolvesfootball Club 1848,1848-09-28,5445,1452
-37,Virginia kangaroosfootball Club 1872,1872-12-15,5460,1456
-37,Maryland birdsfootball Club 1834,1834-01-19,5475,1460
-37,Arkansas witchesfootball Club 1914,1914-02-13,5490,1464
-37,Florida geesefootball Club 1878,1878-11-05,5505,1468
-37,Connecticut vampiresfootball Club 1941,1941-12-12,5520,1472
-37,Nebraska kangaroosfootball Club 1978,1978-03-07,5535,1476
-37,West Virginia enchantersfootball Club 1841,1841-09-23,5550,1480
-38,Maryland beesfootball Club 1873,1873-01-31,5565,1484
-38,Rhode Island lionsfootball Club 1899,1899-02-26,5580,1488
-38,Kansas foesfootball Club 1922,1922-09-17,5595,1492
-38,Kansas warlocksfootball Club 1853,1853-07-17,5610,1496
-38,Louisiana foesfootball Club 1967,1967-04-13,5625,1500
-38,Virginia spidersfootball Club 1954,1954-04-19,5640,1504
-38,New Hampshire zombiesfootball Club 1857,1857-11-11,5655,1508
-38,Idaho worshipersfootball Club 1995,1995-06-16,5670,1512
-38,Nevada chimerasfootball Club 1954,1954-12-08,5685,1516
-38,Texas black catsfootball Club 1870,1870-07-05,5700,1520
-39,Connecticut oraclesfootball Club 1998,1998-05-29,5715,1524
-39,Delaware worshipersfootball Club 1882,1882-02-11,5730,1528
-39,Michigan geesefootball Club 1856,1856-02-25,5745,1532
-39,Louisiana cattlefootball Club 1992,1992-09-27,5760,1536
-39,New Jersey goatsfootball Club 1973,1973-08-06,5775,1540
-39,Iowa nemesisfootball Club 1850,1850-01-22,5790,1544
-39,Michigan goatsfootball Club 1888,1888-03-23,5805,1548
-39,South Dakota enchantersfootball Club 1975,1975-07-31,5820,1552
-39,New Hampshire birdsfootball Club 1868,1868-04-08,5835,1556
-39,Illinois sheepfootball Club 1901,1901-06-23,5850,1560
-40,Oregon dwarvesfootball Club 1851,1851-06-10,5865,1564
-40,Maine conspiratorsfootball Club 1931,1931-06-14,5880,1568
-40,Washington foxesfootball Club 1985,1985-11-29,5895,1572
-40,Florida dwarvesfootball Club 1853,1853-03-18,5910,1576
-40,Arkansas batsfootball Club 1858,1858-07-11,5925,1580
-40,Connecticut oxenfootball Club 1926,1926-10-15,5940,1584
-40,Delaware monkeysfootball Club 1825,1825-07-19,5955,1588
-40,Ohio horsesfootball Club 1924,1924-11-15,5970,1592
-40,Tennessee antsfootball Club 1921,1921-06-23,5985,1596
-40,South Dakota druidsfootball Club 1857,1857-08-18,6000,1600
-41,Pennsylvania goblinsfootball Club 1989,1989-10-04,6015,1604
-41,New Jersey spidersfootball Club 1860,1860-02-05,6030,1608
-41,Wyoming druidsfootball Club 1906,1906-07-04,6045,1612
-41,West Virginia chimerasfootball Club 1844,1844-11-26,6060,1616
-41,Louisiana wolvesfootball Club 1888,1888-09-20,6075,1620
-41,Massachusetts goosesfootball Club 1928,1928-05-05,6090,1624
-41,Kentucky ducksfootball Club 1995,1995-03-01,6105,1628
-41,Vermont peoplefootball Club 1882,1882-09-09,6120,1632
-41,Louisiana beesfootball Club 1965,1965-08-01,6135,1636
-41,Delaware buffalofootball Club 1969,1969-11-21,6150,1640
-42,Delaware zombiesfootball Club 1994,1994-08-15,6165,1644
-42,Massachusetts geesefootball Club 1890,1890-07-28,6180,1648
-42,Vermont vixensfootball Club 1832,1832-01-30,6195,1652
-42,Pennsylvania warlocksfootball Club 1933,1933-03-28,6210,1656
-42,Tennessee whalesfootball Club 1925,1925-05-07,6225,1660
-42,North Carolina sorcerorsfootball Club 1892,1892-06-29,6240,1664
-42,Ohio crowsfootball Club 1824,1824-03-07,6255,1668
-42,Georgia batsfootball Club 1983,1983-05-25,6270,1672
-42,Virginia dogsfootball Club 1970,1970-02-28,6285,1676
-42,Washington foesfootball Club 1911,1911-10-10,6300,1680
-43,Louisiana frogsfootball Club 1920,1920-08-14,6315,1684
-43,North Carolina exorcistsfootball Club 1945,1945-07-17,6330,1688
-43,Michigan foesfootball Club 1989,1989-01-02,6345,1692
-43,Delaware foesfootball Club 1850,1850-07-12,6360,1696
-43,Georgia peoplefootball Club 1946,1946-06-12,6375,1700
-43,New Mexico zombiesfootball Club 1899,1899-04-04,6390,1704
-43,Kentucky prophetsfootball Club 1991,1991-06-12,6405,1708
-43,Rhode Island lionsfootball Club 1843,1843-09-10,6420,1712
-43,Colorado batsfootball Club 1975,1975-04-20,6435,1716
-43,South Dakota antsfootball Club 1864,1864-06-20,6450,1720
-44,Montana chimerasfootball Club 1911,1911-01-29,6465,1724
-44,Indiana sheepfootball Club 1954,1954-03-22,6480,1728
-44,New Mexico dogsfootball Club 1867,1867-02-14,6495,1732
-44,California dragonsfootball Club 1909,1909-08-22,6510,1736
-44,Minnesota oxenfootball Club 2000,2000-07-23,6525,1740
-44,Utah druidsfootball Club 1847,1847-11-24,6540,1744
-44,California cattlefootball Club 1886,1886-05-04,6555,1748
-44,Tennessee crowsfootball Club 1854,1854-02-24,6570,1752
-44,North Carolina goatsfootball Club 1997,1997-07-18,6585,1756
-44,Pennsylvania foxesfootball Club 1894,1894-05-24,6600,1760
-45,New Jersey crowsfootball Club 1914,1914-11-17,6615,1764
-45,Oregon prophetsfootball Club 1875,1875-07-10,6630,1768
-45,New Hampshire griffinsfootball Club 1947,1947-11-12,6645,1772
-45,Maine birdsfootball Club 1959,1959-09-18,6660,1776
-45,New York worshipersfootball Club 1930,1930-09-27,6675,1780
-45,Wyoming witchesfootball Club 1875,1875-04-02,6690,1784
-45,Oregon nemesisfootball Club 1918,1918-06-02,6705,1788
-45,Tennessee catsfootball Club 1920,1920-12-07,6720,1792
-45,Louisiana whalesfootball Club 1934,1934-01-24,6735,1796
-45,South Dakota cattlefootball Club 1855,1855-02-16,6750,1800
-46,Iowa tigersfootball Club 1836,1836-09-03,6765,1804
-46,Rhode Island sheepfootball Club 1949,1949-04-19,6780,1808
-46,Oklahoma druidsfootball Club 1909,1909-03-12,6795,1812
-46,Iowa frogsfootball Club 1908,1908-11-30,6810,1816
-46,Wisconsin druidsfootball Club 1953,1953-09-02,6825,1820
-46,Idaho birdsfootball Club 1900,1900-04-21,6840,1824
-46,Minnesota werewolvesfootball Club 1905,1905-10-02,6855,1828
-46,Maryland druidsfootball Club 1903,1903-04-28,6870,1832
-46,Mississippi lycanthropesfootball Club 1984,1984-04-04,6885,1836
-46,Missouri werewolvesfootball Club 1876,1876-11-01,6900,1840
-47,Oregon dolphinsfootball Club 1956,1956-08-13,6915,1844
-47,Kansas catsfootball Club 1931,1931-02-17,6930,1848
-47,Vermont cattlefootball Club 1992,1992-11-10,6945,1852
-47,Kansas vixensfootball Club 1905,1905-06-17,6960,1856
-47,Idaho oxenfootball Club 1863,1863-08-29,6975,1860
-47,Ohio rabbitsfootball Club 1979,1979-02-11,6990,1864
-47,Connecticut ducksfootball Club 1838,1838-01-01,7005,1868
-47,Idaho tigersfootball Club 1964,1964-06-18,7020,1872
-47,Kansas peoplefootball Club 1961,1961-11-14,7035,1876
-47,Delaware owlsfootball Club 1975,1975-12-16,7050,1880
-48,Alaska oraclesfootball Club 1857,1857-08-26,7065,1884
-48,Maryland penguinsfootball Club 1998,1998-08-26,7080,1888
-48,Wyoming fishesfootball Club 1869,1869-10-29,7095,1892
-48,Nebraska catsfootball Club 1996,1996-05-31,7110,1896
-48,Louisiana spiritsfootball Club 1985,1985-05-27,7125,1900
-48,Pennsylvania zombiesfootball Club 1933,1933-05-03,7140,1904
-48,New Hampshire ogresfootball Club 1991,1991-01-24,7155,1908
-48,Wisconsin werewolvesfootball Club 1940,1940-12-10,7170,1912
-48,North Carolina elvesfootball Club 1826,1826-03-24,7185,1916
-48,Alabama chimerasfootball Club 1827,1827-06-02,7200,1920
-49,New York enchantersfootball Club 1917,1917-10-06,7215,1924
-49,Iowa spiritsfootball Club 1868,1868-10-14,7230,1928
-49,New Hampshire vampiresfootball Club 1930,1930-10-23,7245,1932
-49,Arizona conspiratorsfootball Club 1829,1829-06-26,7260,1936
-49,North Carolina horsesfootball Club 1991,1991-11-17,7275,1940
-49,Delaware buffalofootball Club 1909,1909-10-26,7290,1944
-49,Missouri enchantersfootball Club 1842,1842-03-11,7305,1948
-49,South Dakota vixensfootball Club 1834,1834-03-19,7320,1952
-49,South Dakota peoplefootball Club 1881,1881-05-22,7335,1956
-49,North Carolina goosesfootball Club 1975,1975-10-25,7350,1960
-50,Maryland bearsfootball Club 1985,1985-08-30,7365,1964
-50,Vermont cattlefootball Club 1859,1859-09-30,7380,1968
-50,Colorado vixensfootball Club 1859,1859-05-11,7395,1972
-50,Arkansas foxesfootball Club 1832,1832-09-16,7410,1976
-50,Arkansas werewolvesfootball Club 1843,1843-09-17,7425,1980
-50,Delaware lycanthropesfootball Club 1934,1934-07-13,7440,1984
-50,Maryland giantsfootball Club 1846,1846-06-22,7455,1988
-50,Michigan foxesfootball Club 1979,1979-11-29,7470,1992
-50,Louisiana fishesfootball Club 1954,1954-04-19,7485,1996
-50,West Virginia goosesfootball Club 1883,1883-08-14,7500,2000
-51,Rhode Island chimerasfootball Club 1944,1944-03-02,7515,2004
-51,Pennsylvania buffalofootball Club 1956,1956-05-09,7530,2008
-51,Kentucky dwarvesfootball Club 1875,1875-12-20,7545,2012
-51,Georgia ghostsfootball Club 1896,1896-03-31,7560,2016
-51,Virginia dwarvesfootball Club 1825,1825-01-19,7575,2020
-51,Utah chimerasfootball Club 1832,1832-09-23,7590,2024
-51,Michigan witchesfootball Club 1849,1849-06-28,7605,2028
-51,South Carolina zebrasfootball Club 1869,1869-06-17,7620,2032
-51,Pennsylvania werewolvesfootball Club 1955,1955-08-14,7635,2036
-51,Tennessee witchesfootball Club 1915,1915-06-06,7650,2040
-52,Maine worshipersfootball Club 1846,1846-07-19,7665,2044
-52,South Dakota birdsfootball Club 1956,1956-12-07,7680,2048
-52,South Carolina pigsfootball Club 1946,1946-05-30,7695,2052
-52,Virginia nemesisfootball Club 1901,1901-03-13,7710,2056
-52,Mississippi chimerasfootball Club 1960,1960-11-23,7725,2060
-52,North Carolina werewolvesfootball Club 1874,1874-11-24,7740,2064
-52,Iowa cattlefootball Club 1976,1976-04-27,7755,2068
-52,Tennessee goatsfootball Club 1850,1850-07-25,7770,2072
-52,Kansas giantsfootball Club 1986,1986-01-22,7785,2076
-52,New Jersey spiritsfootball Club 1921,1921-02-12,7800,2080
-53,Kentucky vixensfootball Club 1998,1998-06-04,7815,2084
-53,Indiana catsfootball Club 1916,1916-12-15,7830,2088
-53,Georgia elephantsfootball Club 1975,1975-11-13,7845,2092
-53,Pennsylvania elvesfootball Club 1918,1918-01-01,7860,2096
-53,Montana spiritsfootball Club 1956,1956-08-07,7875,2100
-53,Minnesota vampiresfootball Club 1985,1985-02-06,7890,2104
-53,Mississippi lionsfootball Club 1982,1982-07-13,7905,2108
-53,Arkansas whalesfootball Club 1954,1954-01-30,7920,2112
-53,Maine zombiesfootball Club 1948,1948-02-03,7935,2116
-53,Arizona elvesfootball Club 1907,1907-12-17,7950,2120
-54,Texas chimerasfootball Club 1949,1949-03-28,7965,2124
-54,Texas ghostsfootball Club 1949,1949-08-17,7980,2128
-54,Missouri bansheesfootball Club 1835,1835-05-06,7995,2132
-54,South Dakota vampiresfootball Club 1849,1849-12-06,8010,2136
-54,Nevada fishesfootball Club 1944,1944-05-27,8025,2140
-54,Arizona owlsfootball Club 1943,1943-01-04,8040,2144
-54,Wisconsin rabbitsfootball Club 1873,1873-06-10,8055,2148
-54,Virginia peoplefootball Club 1853,1853-03-29,8070,2152
-54,California frogsfootball Club 1859,1859-01-04,8085,2156
-54,Virginia wolvesfootball Club 1969,1969-04-01,8100,2160
-55,Florida prophetsfootball Club 1857,1857-06-20,8115,2164
-55,Rhode Island vixensfootball Club 1827,1827-01-01,8130,2168
-55,Delaware chickensfootball Club 1867,1867-06-11,8145,2172
-55,Michigan kangaroosfootball Club 1939,1939-08-15,8160,2176
-55,New Jersey crowsfootball Club 1976,1976-01-08,8175,2180
-55,Florida rabbitsfootball Club 1962,1962-01-21,8190,2184
-55,Colorado beesfootball Club 1908,1908-01-12,8205,2188
-55,Utah oraclesfootball Club 1947,1947-03-21,8220,2192
-55,Iowa horsesfootball Club 1933,1933-11-10,8235,2196
-55,New Jersey peoplefootball Club 1850,1850-04-17,8250,2200
-56,Oregon zombiesfootball Club 1839,1839-06-21,8265,2204
-56,Idaho exorcistsfootball Club 1886,1886-06-22,8280,2208
-56,Rhode Island foxesfootball Club 1890,1890-01-21,8295,2212
-56,Delaware witchesfootball Club 1850,1850-10-10,8310,2216
-56,Pennsylvania oxenfootball Club 1961,1961-05-12,8325,2220
-56,Nevada zebrasfootball Club 1955,1955-12-11,8340,2224
-56,Illinois goatsfootball Club 1957,1957-11-20,8355,2228
-56,New Hampshire dragonsfootball Club 1976,1976-11-01,8370,2232
-56,Florida sonsfootball Club 1826,1826-07-30,8385,2236
-56,Alaska goatsfootball Club 1870,1870-09-13,8400,2240
-57,Tennessee owlsfootball Club 1827,1827-05-04,8415,2244
-57,Illinois vixensfootball Club 1912,1912-05-07,8430,2248
-57,Hawaii worshipersfootball Club 1847,1847-04-27,8445,2252
-57,Wyoming catsfootball Club 1983,1983-10-22,8460,2256
-57,Arizona ducksfootball Club 1985,1985-03-07,8475,2260
-57,Oklahoma whalesfootball Club 1850,1850-02-14,8490,2264
-57,South Dakota lionsfootball Club 1830,1830-02-20,8505,2268
-57,Louisiana zebrasfootball Club 1868,1868-02-18,8520,2272
-57,Colorado antsfootball Club 1938,1938-03-20,8535,2276
-57,Colorado lycanthropesfootball Club 1898,1898-07-01,8550,2280
-58,Rhode Island ogresfootball Club 1928,1928-07-26,8565,2284
-58,Nebraska elephantsfootball Club 1873,1873-01-27,8580,2288
-58,Arkansas rabbitsfootball Club 1856,1856-11-17,8595,2292
-58,New York oxenfootball Club 1830,1830-11-01,8610,2296
-58,Tennessee bansheesfootball Club 1902,1902-04-30,8625,2300
-58,Alabama sheepfootball Club 1838,1838-06-21,8640,2304
-58,North Carolina vixensfootball Club 1997,1997-04-28,8655,2308
-58,Illinois sheepfootball Club 1861,1861-03-01,8670,2312
-58,Arizona foxesfootball Club 1991,1991-01-30,8685,2316
-58,Florida conspiratorsfootball Club 1870,1870-06-22,8700,2320
-59,Alabama catsfootball Club 1843,1843-05-16,8715,2324
-59,New York ogresfootball Club 1904,1904-08-04,8730,2328
-59,New York wolvesfootball Club 1919,1919-08-03,8745,2332
-59,California geesefootball Club 1922,1922-11-22,8760,2336
-59,Arkansas chimerasfootball Club 1928,1928-02-04,8775,2340
-59,Idaho zebrasfootball Club 1856,1856-05-03,8790,2344
-59,Wisconsin worshipersfootball Club 1872,1872-02-03,8805,2348
-59,Illinois griffinsfootball Club 1931,1931-06-27,8820,2352
-59,Montana oraclesfootball Club 1930,1930-12-15,8835,2356
-59,Alabama spidersfootball Club 1869,1869-02-26,8850,2360
-60,Ohio pigsfootball Club 1975,1975-05-05,8865,2364
-60,Wisconsin antsfootball Club 1877,1877-11-08,8880,2368
-60,Louisiana geesefootball Club 1952,1952-01-13,8895,2372
-60,Oregon oraclesfootball Club 1871,1871-01-25,8910,2376
-60,Minnesota peoplefootball Club 1914,1914-07-10,8925,2380
-60,Delaware goblinsfootball Club 1844,1844-11-12,8940,2384
-60,Tennessee spiritsfootball Club 1977,1977-06-21,8955,2388
-60,Utah bearsfootball Club 1830,1830-04-03,8970,2392
-60,Texas zebrasfootball Club 1957,1957-06-27,8985,2396
-60,Mississippi elephantsfootball Club 1894,1894-10-12,9000,2400
-61,Montana geesefootball Club 1972,1972-08-12,9015,2404
-61,Oregon dragonsfootball Club 1967,1967-10-15,9030,2408
-61,Ohio dwarvesfootball Club 1967,1967-08-05,9045,2412
-61,Ohio spidersfootball Club 1927,1927-02-20,9060,2416
-61,Vermont buffalofootball Club 1973,1973-12-31,9075,2420
-61,Kansas bearsfootball Club 1869,1869-12-11,9090,2424
-61,Ohio bearsfootball Club 1974,1974-09-03,9105,2428
-61,New Mexico goatsfootball Club 1935,1935-01-26,9120,2432
-61,Vermont birdsfootball Club 1849,1849-06-23,9135,2436
-61,Maine pigsfootball Club 1875,1875-01-27,9150,2440
-62,North Dakota peoplefootball Club 1824,1824-12-31,9165,2444
-62,Missouri geesefootball Club 1834,1834-05-20,9180,2448
-62,Nebraska vampiresfootball Club 1827,1827-10-27,9195,2452
-62,Alaska witchesfootball Club 1942,1942-11-07,9210,2456
-62,South Carolina bearsfootball Club 1839,1839-08-14,9225,2460
-62,Alabama kangaroosfootball Club 1880,1880-04-07,9240,2464
-62,Minnesota worshipersfootball Club 1920,1920-01-31,9255,2468
-62,South Carolina geesefootball Club 1909,1909-05-14,9270,2472
-62,Pennsylvania exorcistsfootball Club 1878,1878-04-28,9285,2476
-62,Louisiana spiritsfootball Club 1956,1956-06-06,9300,2480
-63,Alabama wolvesfootball Club 1949,1949-02-05,9315,2484
-63,Montana gnomesfootball Club 1840,1840-06-26,9330,2488
-63,Arizona chickensfootball Club 1947,1947-12-05,9345,2492
-63,Indiana lycanthropesfootball Club 1826,1826-12-31,9360,2496
-63,Louisiana spidersfootball Club 1987,1987-08-06,9375,2500
-63,Idaho giantsfootball Club 1973,1973-07-03,9390,2504
-63,Alabama goblinsfootball Club 1863,1863-10-19,9405,2508
-63,Missouri crowsfootball Club 1908,1908-07-14,9420,2512
-63,California sheepfootball Club 1894,1894-05-17,9435,2516
-63,Kentucky ogresfootball Club 1932,1932-12-12,9450,2520
-64,California lionsfootball Club 1992,1992-11-22,9465,2524
-64,Minnesota dolphinsfootball Club 1873,1873-11-02,9480,2528
-64,Illinois witchesfootball Club 1949,1949-03-26,9495,2532
-64,Nebraska foesfootball Club 1946,1946-03-16,9510,2536
-64,Wyoming dolphinsfootball Club 1967,1967-08-22,9525,2540
-64,Delaware goosesfootball Club 1906,1906-02-25,9540,2544
-64,Massachusetts goblinsfootball Club 1858,1858-12-16,9555,2548
-64,Delaware vixensfootball Club 1870,1870-11-27,9570,2552
-64,Idaho zombiesfootball Club 1827,1827-04-21,9585,2556
-64,Tennessee lycanthropesfootball Club 1947,1947-07-13,9600,2560
-65,Massachusetts dragonsfootball Club 1847,1847-03-22,9615,2564
-65,Arkansas foesfootball Club 1938,1938-04-28,9630,2568
-65,North Carolina owlsfootball Club 1977,1977-12-28,9645,2572
-65,Virginia rabbitsfootball Club 1842,1842-12-06,9660,2576
-65,New Mexico sorcerorsfootball Club 1881,1881-12-19,9675,2580
-65,Kentucky nemesisfootball Club 1960,1960-01-31,9690,2584
-65,Utah antsfootball Club 1953,1953-08-15,9705,2588
-65,Pennsylvania dolphinsfootball Club 1953,1953-08-25,9720,2592
-65,Michigan beesfootball Club 1923,1923-03-28,9735,2596
-65,Minnesota bearsfootball Club 1879,1879-05-13,9750,2600
-66,Louisiana elephantsfootball Club 1842,1842-12-07,9765,2604
-66,Idaho penguinsfootball Club 1904,1904-11-01,9780,2608
-66,Utah cattlefootball Club 1840,1840-05-24,9795,2612
-66,Alaska antsfootball Club 1921,1921-03-12,9810,2616
-66,Maryland cattlefootball Club 1999,1999-12-25,9825,2620
-66,Montana vixensfootball Club 1975,1975-11-08,9840,2624
-66,Wisconsin monkeysfootball Club 1948,1948-08-11,9855,2628
-66,Indiana whalesfootball Club 1876,1876-12-22,9870,2632
-66,South Dakota giantsfootball Club 1964,1964-05-25,9885,2636
-66,Utah zebrasfootball Club 1847,1847-02-18,9900,2640
-67,Florida dwarvesfootball Club 1883,1883-04-09,9915,2644
-67,Wisconsin spiritsfootball Club 1926,1926-08-26,9930,2648
-67,Louisiana zombiesfootball Club 1891,1891-11-04,9945,2652
-67,Arkansas oxenfootball Club 1975,1975-12-31,9960,2656
-67,South Dakota wolvesfootball Club 1932,1932-09-28,9975,2660
-67,Tennessee crowsfootball Club 1892,1892-10-25,9990,2664
-67,Delaware foesfootball Club 1982,1982-01-26,10005,2668
-67,North Carolina penguinsfootball Club 1998,1998-09-28,10020,2672
-67,Nebraska druidsfootball Club 1970,1970-08-09,10035,2676
-67,Arkansas goblinsfootball Club 1910,1910-04-05,10050,2680
-68,Tennessee pigsfootball Club 1892,1892-06-24,10065,2684
-68,Louisiana sorcerorsfootball Club 1890,1890-08-07,10080,2688
-68,Oklahoma dragonsfootball Club 1953,1953-03-06,10095,2692
-68,Michigan rabbitsfootball Club 1893,1893-09-23,10110,2696
-68,New Hampshire ducksfootball Club 1946,1946-02-19,10125,2700
-68,Tennessee geesefootball Club 1952,1952-02-16,10140,2704
-68,Wyoming dragonsfootball Club 1991,1991-10-12,10155,2708
-68,Indiana dragonsfootball Club 1866,1866-06-10,10170,2712
-68,Tennessee buffalofootball Club 1970,1970-06-29,10185,2716
-68,Georgia foesfootball Club 1835,1835-10-19,10200,2720
-69,Iowa birdsfootball Club 1982,1982-07-01,10215,2724
-69,North Dakota oraclesfootball Club 1860,1860-03-20,10230,2728
-69,Missouri prophetsfootball Club 1961,1961-12-18,10245,2732
-69,Tennessee spidersfootball Club 1915,1915-03-17,10260,2736
-69,Maine goatsfootball Club 1846,1846-04-18,10275,2740
-69,New Jersey foxesfootball Club 1878,1878-05-20,10290,2744
-69,Utah druidsfootball Club 1896,1896-01-29,10305,2748
-69,Alaska antsfootball Club 1975,1975-12-15,10320,2752
-69,Louisiana druidsfootball Club 1901,1901-04-28,10335,2756
-69,Nevada batsfootball Club 1947,1947-01-06,10350,2760
-70,Utah lionsfootball Club 1923,1923-01-04,10365,2764
-70,New Jersey cattlefootball Club 1841,1841-11-30,10380,2768
-70,Oklahoma geesefootball Club 1866,1866-10-02,10395,2772
-70,Ohio elvesfootball Club 1999,1999-09-20,10410,2776
-70,Oregon fishesfootball Club 1848,1848-06-14,10425,2780
-70,Kentucky bearsfootball Club 1880,1880-01-21,10440,2784
-70,Alaska oxenfootball Club 1921,1921-07-07,10455,2788
-70,Arkansas druidsfootball Club 1939,1939-11-01,10470,2792
-70,Colorado tigersfootball Club 1935,1935-09-06,10485,2796
-70,Massachusetts vixensfootball Club 1958,1958-04-12,10500,2800
-71,Minnesota enchantersfootball Club 1841,1841-07-31,10515,2804
-71,Georgia tigersfootball Club 1920,1920-05-08,10530,2808
-71,Missouri horsesfootball Club 1957,1957-06-17,10545,2812
-71,Montana monkeysfootball Club 1840,1840-04-24,10560,2816
-71,Delaware sorcerorsfootball Club 1950,1950-10-19,10575,2820
-71,South Dakota wolvesfootball Club 1930,1930-10-22,10590,2824
-71,Nevada birdsfootball Club 1932,1932-11-03,10605,2828
-71,Kansas owlsfootball Club 1837,1837-02-26,10620,2832
-71,Alaska monkeysfootball Club 1951,1951-09-30,10635,2836
-71,Arkansas sorcerorsfootball Club 1970,1970-04-04,10650,2840
-72,Idaho antsfootball Club 1891,1891-07-02,10665,2844
-72,Iowa monkeysfootball Club 1983,1983-11-10,10680,2848
-72,Idaho lionsfootball Club 1971,1971-03-19,10695,2852
-72,West Virginia werewolvesfootball Club 1937,1937-11-14,10710,2856
-72,Maine dragonsfootball Club 1962,1962-04-15,10725,2860
-72,Arizona tigersfootball Club 1916,1916-11-20,10740,2864
-72,West Virginia batsfootball Club 1895,1895-04-02,10755,2868
-72,Georgia spiritsfootball Club 1877,1877-06-15,10770,2872
-72,Arizona dwarvesfootball Club 1832,1832-05-06,10785,2876
-72,Mississippi vixensfootball Club 1827,1827-10-31,10800,2880
-73,New York ogresfootball Club 1841,1841-07-17,10815,2884
-73,South Dakota dragonsfootball Club 1984,1984-09-05,10830,2888
-73,Ohio warlocksfootball Club 1971,1971-11-03,10845,2892
-73,Kansas elephantsfootball Club 1910,1910-04-22,10860,2896
-73,North Dakota monkeysfootball Club 1866,1866-05-30,10875,2900
-73,New Hampshire beesfootball Club 1990,1990-12-24,10890,2904
-73,Colorado wolvesfootball Club 1951,1951-02-23,10905,2908
-73,Tennessee goosesfootball Club 1829,1829-05-07,10920,2912
-73,Arizona oxenfootball Club 1998,1998-06-13,10935,2916
-73,Maine rabbitsfootball Club 1913,1913-01-19,10950,2920
-74,Kentucky druidsfootball Club 1991,1991-12-12,10965,2924
-74,Nevada kangaroosfootball Club 1938,1938-04-12,10980,2928
-74,West Virginia zombiesfootball Club 1893,1893-05-31,10995,2932
-74,New York giantsfootball Club 1873,1873-11-15,11010,2936
-74,Mississippi conspiratorsfootball Club 1990,1990-03-25,11025,2940
-74,Kentucky buffalofootball Club 1923,1923-06-16,11040,2944
-74,Wyoming oraclesfootball Club 1888,1888-09-29,11055,2948
-74,Iowa peoplefootball Club 1873,1873-06-21,11070,2952
-74,Oregon ducksfootball Club 1839,1839-10-27,11085,2956
-74,Massachusetts birdsfootball Club 1985,1985-03-01,11100,2960
-75,Alabama zombiesfootball Club 1984,1984-07-31,11115,2964
-75,Iowa kangaroosfootball Club 1965,1965-04-11,11130,2968
-75,Tennessee beesfootball Club 1958,1958-03-09,11145,2972
-75,Virginia buffalofootball Club 1939,1939-09-03,11160,2976
-75,Idaho owlsfootball Club 1879,1879-08-28,11175,2980
-75,South Carolina chickensfootball Club 1910,1910-02-12,11190,2984
-75,Indiana birdsfootball Club 1966,1966-09-14,11205,2988
-75,Wyoming ogresfootball Club 1867,1867-09-01,11220,2992
-75,Oklahoma buffalofootball Club 1988,1988-08-08,11235,2996
-75,North Dakota owlsfootball Club 1996,1996-12-04,11250,3000
-76,Hawaii frogsfootball Club 1922,1922-05-03,11265,3004
-76,New Mexico exorcistsfootball Club 1908,1908-01-22,11280,3008
-76,New York warlocksfootball Club 1855,1855-09-03,11295,3012
-76,Kansas horsesfootball Club 1873,1873-09-07,11310,3016
-76,Mississippi geesefootball Club 1891,1891-06-23,11325,3020
-76,Texas werewolvesfootball Club 1997,1997-11-21,11340,3024
-76,Arkansas druidsfootball Club 1953,1953-02-08,11355,3028
-76,Delaware goatsfootball Club 1972,1972-12-10,11370,3032
-76,Mississippi bearsfootball Club 1861,1861-05-21,11385,3036
-76,North Carolina spidersfootball Club 1843,1843-04-18,11400,3040
-77,Alabama enchantersfootball Club 1855,1855-07-23,11415,3044
-77,Rhode Island elephantsfootball Club 1991,1991-05-29,11430,3048
-77,South Carolina black catsfootball Club 1859,1859-07-11,11445,3052
-77,Michigan bearsfootball Club 1948,1948-07-13,11460,3056
-77,North Carolina conspiratorsfootball Club 1859,1859-04-15,11475,3060
-77,South Dakota ducksfootball Club 1943,1943-02-26,11490,3064
-77,Arizona sheepfootball Club 1834,1834-01-04,11505,3068
-77,West Virginia black catsfootball Club 1993,1993-08-10,11520,3072
-77,Massachusetts griffinsfootball Club 1925,1925-08-23,11535,3076
-77,Texas giantsfootball Club 1936,1936-10-26,11550,3080
-78,Utah chickensfootball Club 1893,1893-01-03,11565,3084
-78,Idaho ghostsfootball Club 1999,1999-07-14,11580,3088
-78,Montana lycanthropesfootball Club 1953,1953-08-02,11595,3092
-78,Tennessee ghostsfootball Club 1867,1867-12-14,11610,3096
-78,Utah geesefootball Club 1898,1898-06-12,11625,3100
-78,Illinois chickensfootball Club 1861,1861-03-26,11640,3104
-78,Florida prophetsfootball Club 1992,1992-04-12,11655,3108
-78,Maryland gnomesfootball Club 1927,1927-01-03,11670,3112
-78,Georgia oraclesfootball Club 1948,1948-11-19,11685,3116
-78,Utah goblinsfootball Club 1932,1932-01-19,11700,3120
-79,Maryland bansheesfootball Club 1900,1900-07-21,11715,3124
-79,Maryland prophetsfootball Club 1907,1907-12-18,11730,3128
-79,Delaware enchantersfootball Club 1828,1828-01-24,11745,3132
-79,South Carolina peoplefootball Club 1922,1922-07-12,11760,3136
-79,North Carolina lionsfootball Club 1942,1942-10-07,11775,3140
-79,Florida batsfootball Club 1887,1887-05-06,11790,3144
-79,Vermont dogsfootball Club 1845,1845-01-09,11805,3148
-79,New York exorcistsfootball Club 1838,1838-12-03,11820,3152
-79,Texas goosesfootball Club 1979,1979-09-17,11835,3156
-79,Washington sonsfootball Club 1933,1933-05-09,11850,3160
-80,Louisiana tigersfootball Club 1977,1977-08-04,11865,3164
-80,Massachusetts oxenfootball Club 1882,1882-06-28,11880,3168
-80,Maryland warlocksfootball Club 1929,1929-12-20,11895,3172
-80,North Carolina zombiesfootball Club 1884,1884-07-07,11910,3176
-80,Minnesota monkeysfootball Club 1922,1922-12-08,11925,3180
-80,Oregon vampiresfootball Club 1875,1875-11-22,11940,3184
-80,New York goosesfootball Club 1914,1914-03-30,11955,3188
-80,Hawaii kangaroosfootball Club 1824,1824-08-31,11970,3192
-80,Maine buffalofootball Club 1996,1996-03-28,11985,3196
-80,Kentucky dwarvesfootball Club 1915,1915-11-20,12000,3200
+1,Hawaii spiders football Club 1940,1940-05-20,15,4
+2,Missouri foxes football Club 1855,1855-03-10,30,8
+3,New Jersey ducks football Club 1895,1895-09-19,45,12
+4,Montana owls football Club 1837,1837-01-21,60,16
+5,New Hampshire sheep football Club 1984,1984-10-02,75,20
+6,Kentucky elephants football Club 1828,1828-06-03,90,24
+7,Nevada horses football Club 1948,1948-02-09,105,28
+8,Ohio ghosts football Club 1874,1874-02-05,120,32
+9,New Jersey warlocks football Club 1931,1931-10-31,135,36
+10,Illinois lycanthropes football Club 1959,1959-02-16,150,40
+11,Delaware penguins football Club 1942,1942-10-03,165,44
+12,Louisiana chimeras football Club 1924,1924-03-16,180,48
+13,Kentucky monkeys football Club 1858,1858-10-28,195,52
+14,New York foes football Club 1985,1985-06-19,210,56
+15,Connecticut druids football Club 1893,1893-05-12,225,60
+16,Ohio goats football Club 1877,1877-05-08,240,64
+17,Rhode Island whales football Club 1866,1866-10-19,255,68
+18,Alabama elves football Club 1902,1902-12-13,270,72
+19,Ohio fishes football Club 1986,1986-02-13,285,76
+20,Missouri goblins football Club 1953,1953-12-21,300,80
+21,Florida dragons football Club 1950,1950-02-02,315,84
+22,Ohio bears football Club 1951,1951-09-17,330,88
+23,New Hampshire chickens football Club 1967,1967-05-28,345,92
+24,Arizona fishes football Club 1899,1899-09-04,360,96
+25,Connecticut giants football Club 1882,1882-05-14,375,100
+26,Rhode Island griffins football Club 1978,1978-09-11,390,104
+27,Texas wolves football Club 1824,1824-11-06,405,108
+28,New Mexico enchanters football Club 1949,1949-12-21,420,112
+29,Texas penguins football Club 1935,1935-09-19,435,116
+30,Vermont goblins football Club 1984,1984-05-10,450,120
+31,Michigan elves football Club 1871,1871-07-12,465,124
+32,Tennessee lions football Club 1965,1965-11-04,480,128
+33,Indiana whales football Club 1854,1854-04-23,495,132
+34,New Hampshire horses football Club 1979,1979-11-26,510,136
+35,Hawaii pigs football Club 1849,1849-11-29,525,140
+36,Colorado ducks football Club 1901,1901-09-17,540,144
+37,Kentucky lions football Club 1992,1992-04-18,555,148
+38,Iowa spiders football Club 1880,1880-04-07,570,152
+39,Ohio goblins football Club 1849,1849-11-27,585,156
+40,New Mexico goblins football Club 1898,1898-11-09,600,160
+41,South Dakota sheep football Club 1957,1957-02-13,615,164
+42,Hawaii dolphins football Club 1887,1887-04-09,630,168
+43,Arizona gooses football Club 1991,1991-09-06,645,172
+44,Utah oracles football Club 1896,1896-02-16,660,176
+45,North Carolina ducks football Club 1826,1826-11-30,675,180
+46,Delaware wolves football Club 1917,1917-09-11,690,184
+47,Kentucky banshees football Club 1991,1991-09-04,705,188
+48,California bears football Club 1910,1910-11-26,720,192
+49,Oregon penguins football Club 1900,1900-07-05,735,196
+50,Idaho bats football Club 1843,1843-08-25,750,200
+51,South Dakota ghosts football Club 1857,1857-01-25,765,204
+52,Mississippi enchanters football Club 1837,1837-03-11,780,208
+53,Minnesota griffins football Club 1886,1886-06-10,795,212
+54,Alaska chimeras football Club 1912,1912-03-24,810,216
+55,Hawaii ducks football Club 1927,1927-11-10,825,220
+56,Indiana foxes football Club 1896,1896-12-23,840,224
+57,Florida witches football Club 1959,1959-06-18,855,228
+58,Vermont chickens football Club 1997,1997-04-23,870,232
+59,West Virginia rabbits football Club 1888,1888-01-18,885,236
+60,Washington whales football Club 1999,1999-05-27,900,240
+61,Washington dragons football Club 1835,1835-08-08,915,244
+62,Arizona geese football Club 1870,1870-01-04,930,248
+63,Arkansas zombies football Club 1877,1877-03-03,945,252
+64,Maine monkeys football Club 1939,1939-10-21,960,256
+65,Texas frogs football Club 1978,1978-08-28,975,260
+66,Pennsylvania sons football Club 1868,1868-06-06,990,264
+67,South Dakota lions football Club 1977,1977-01-03,1005,268
+68,North Dakota oxen football Club 1898,1898-11-08,1020,272
+69,Maryland giants football Club 1935,1935-05-22,1035,276
+70,Missouri ducks football Club 1996,1996-04-24,1050,280
+71,Kansas spirits football Club 1955,1955-09-11,1065,284
+72,Texas penguins football Club 1843,1843-12-26,1080,288
+73,Arkansas rabbits football Club 1963,1963-12-22,1095,292
+74,Oregon penguins football Club 1864,1864-07-04,1110,296
+75,Minnesota black cats football Club 1980,1980-05-09,1125,300
+76,Alabama penguins football Club 1836,1836-01-13,1140,304
+77,Georgia rabbits football Club 1837,1837-08-15,1155,308
+78,South Carolina enchanters football Club 1939,1939-11-07,1170,312
+79,New Mexico goblins football Club 1956,1956-06-19,1185,316
+80,Mississippi birds football Club 1893,1893-11-12,1200,320
+81,Texas vixens football Club 1885,1885-12-05,1215,324
+82,Florida griffins football Club 1884,1884-06-10,1230,328
+83,South Dakota zombies football Club 1839,1839-01-01,1245,332
+84,Tennessee crows football Club 1964,1964-02-23,1260,336
+85,Iowa black cats football Club 1966,1966-12-21,1275,340
+86,Iowa worshipers football Club 1874,1874-01-25,1290,344
+87,Arkansas cats football Club 1915,1915-12-04,1305,348
+88,Delaware nemesis football Club 1944,1944-04-16,1320,352
+89,Minnesota warlocks football Club 1994,1994-12-13,1335,356
+90,Delaware ducks football Club 1951,1951-12-01,1350,360
+91,Virginia spiders football Club 1998,1998-11-10,1365,364
+92,Utah giants football Club 1998,1998-06-09,1380,368
+93,Delaware sheep football Club 1995,1995-01-04,1395,372
+94,West Virginia witches football Club 1970,1970-01-07,1410,376
+95,Maine dragons football Club 1831,1831-09-30,1425,380
+96,Kansas gnomes football Club 1864,1864-03-31,1440,384
+97,Minnesota foxes football Club 1985,1985-08-24,1455,388
+98,Delaware werewolves football Club 1989,1989-07-25,1470,392
+99,Tennessee goats football Club 1887,1887-12-03,1485,396
+100,Mississippi tigers football Club 1981,1981-02-15,1500,400
+101,Illinois zombies football Club 1894,1894-09-06,1515,404
+102,South Dakota tigers football Club 1890,1890-11-21,1530,408
+103,Hawaii oxen football Club 1989,1989-09-22,1545,412
+104,North Dakota bears football Club 1891,1891-05-03,1560,416
+105,Arizona tigers football Club 1826,1826-12-15,1575,420
+106,West Virginia witches football Club 1857,1857-09-27,1590,424
+107,Nebraska warlocks football Club 1902,1902-09-06,1605,428
+108,New Hampshire ducks football Club 1870,1870-08-01,1620,432
+109,Florida elves football Club 1959,1959-12-04,1635,436
+110,Wisconsin spiders football Club 1955,1955-12-13,1650,440
+111,Missouri bears football Club 1998,1998-11-18,1665,444
+112,Montana pigs football Club 1909,1909-07-16,1680,448
+113,Idaho ducks football Club 1956,1956-12-15,1695,452
+114,Tennessee dragons football Club 1837,1837-04-02,1710,456
+115,New York gnomes football Club 1870,1870-07-18,1725,460
+116,Maryland zebras football Club 1980,1980-03-31,1740,464
+117,Kansas bats football Club 1927,1927-01-16,1755,468
+118,Nebraska vixens football Club 1983,1983-10-28,1770,472
+119,Alabama chickens football Club 1830,1830-07-30,1785,476
+120,South Carolina geese football Club 1866,1866-09-30,1800,480
+121,Utah dwarves football Club 1833,1833-06-21,1815,484
+122,Illinois sorcerors football Club 1865,1865-01-30,1830,488
+123,Pennsylvania conspirators football Club 1848,1848-03-21,1845,492
+124,Minnesota tigers football Club 1978,1978-05-28,1860,496
+125,Washington dolphins football Club 1930,1930-06-21,1875,500
+126,New Hampshire enchanters football Club 1863,1863-02-18,1890,504
+127,Arkansas horses football Club 1995,1995-12-26,1905,508
+128,Missouri bats football Club 1832,1832-02-24,1920,512
+129,South Dakota elves football Club 1962,1962-09-20,1935,516
+130,Maryland vampires football Club 1937,1937-04-30,1950,520
+131,North Dakota witches football Club 1960,1960-04-13,1965,524
+132,Missouri foes football Club 1963,1963-08-01,1980,528
+133,Montana spirits football Club 1895,1895-09-01,1995,532
+134,Ohio dolphins football Club 1918,1918-06-28,2010,536
+135,Virginia dwarves football Club 1875,1875-02-22,2025,540
+136,Iowa dogs football Club 1950,1950-03-21,2040,544
+137,Arkansas chickens football Club 1905,1905-04-21,2055,548
+138,North Carolina ogres football Club 1931,1931-12-31,2070,552
+139,Iowa people football Club 1880,1880-08-12,2085,556
+140,North Dakota black cats football Club 1911,1911-12-04,2100,560
+141,Maryland gnomes football Club 1879,1879-02-11,2115,564
+142,Iowa people football Club 1859,1859-04-04,2130,568
+143,Arizona bears football Club 1970,1970-02-24,2145,572
+144,West Virginia giants football Club 1834,1834-07-27,2160,576
+145,Connecticut prophets football Club 1931,1931-12-09,2175,580
+146,Washington owls football Club 1848,1848-02-05,2190,584
+147,Wyoming goblins football Club 1891,1891-08-04,2205,588
+148,Nebraska griffins football Club 1846,1846-02-27,2220,592
+149,Iowa zebras football Club 1909,1909-11-09,2235,596
+150,North Carolina dogs football Club 1953,1953-01-25,2250,600
+151,Nevada bats football Club 1913,1913-05-25,2265,604
+152,Iowa oracles football Club 1983,1983-08-29,2280,608
+153,Ohio wolves football Club 1904,1904-11-09,2295,612
+154,Oklahoma witches football Club 1900,1900-04-26,2310,616
+155,Texas lions football Club 1973,1973-08-01,2325,620
+156,South Carolina horses football Club 1959,1959-01-11,2340,624
+157,New Hampshire foes football Club 1860,1860-05-10,2355,628
+158,Maryland nemesis football Club 1841,1841-12-05,2370,632
+159,Washington zombies football Club 1897,1897-07-21,2385,636
+160,Kentucky warlocks football Club 1963,1963-09-12,2400,640
+161,Georgia bears football Club 1843,1843-02-05,2415,644
+162,New Mexico witches football Club 1887,1887-10-18,2430,648
+163,Pennsylvania sheep football Club 1895,1895-11-12,2445,652
+164,Montana ghosts football Club 1849,1849-03-26,2460,656
+165,Delaware vampires football Club 1859,1859-06-16,2475,660
+166,Arkansas chimeras football Club 1921,1921-05-19,2490,664
+167,Texas owls football Club 1969,1969-06-27,2505,668
+168,Louisiana owls football Club 1878,1878-02-12,2520,672
+169,Arkansas dragons football Club 1958,1958-12-25,2535,676
+170,Illinois tigers football Club 1937,1937-09-15,2550,680
+171,Georgia wolves football Club 1940,1940-03-17,2565,684
+172,Kentucky sons football Club 1889,1889-07-22,2580,688
+173,Wyoming monkeys football Club 1984,1984-04-25,2595,692
+174,New Hampshire vampires football Club 1856,1856-09-15,2610,696
+175,Colorado goats football Club 1908,1908-03-21,2625,700
+176,Nebraska bats football Club 1959,1959-02-13,2640,704
+177,Alaska dogs football Club 1982,1982-09-05,2655,708
+178,Minnesota dragons football Club 1982,1982-05-25,2670,712
+179,Georgia dwarves football Club 1837,1837-11-05,2685,716
+180,Maine wolves football Club 1937,1937-08-31,2700,720
+181,Washington bees football Club 1973,1973-09-05,2715,724
+182,Colorado crows football Club 1924,1924-10-23,2730,728
+183,Tennessee pigs football Club 1841,1841-09-12,2745,732
+184,Maine conspirators football Club 1916,1916-09-15,2760,736
+185,Florida conspirators football Club 1897,1897-03-04,2775,740
+186,North Carolina spiders football Club 1919,1919-08-16,2790,744
+187,Washington witches football Club 1956,1956-12-26,2805,748
+188,Ohio ducks football Club 1879,1879-02-14,2820,752
+189,Vermont giants football Club 1903,1903-03-08,2835,756
+190,Montana crows football Club 1996,1996-03-11,2850,760
+191,New York elves football Club 1988,1988-03-28,2865,764
+192,Washington cattle football Club 1911,1911-06-05,2880,768
+193,Oklahoma lions football Club 1886,1886-04-17,2895,772
+194,Indiana ghosts football Club 1862,1862-04-05,2910,776
+195,Arkansas ogres football Club 1894,1894-04-10,2925,780
+196,North Dakota sheep football Club 1922,1922-03-16,2940,784
+197,Nebraska birds football Club 1919,1919-01-03,2955,788
+198,Georgia bears football Club 1922,1922-08-03,2970,792
+199,Idaho whales football Club 1860,1860-03-30,2985,796
+200,Massachusetts whales football Club 1832,1832-12-24,3000,800
+201,Colorado cattle football Club 1896,1896-01-07,3015,804
+202,Louisiana bees football Club 1863,1863-04-19,3030,808
+203,Colorado giants football Club 1883,1883-02-26,3045,812
+204,Alaska elves football Club 1938,1938-11-17,3060,816
+205,Hawaii sorcerors football Club 1849,1849-01-26,3075,820
+206,North Carolina frogs football Club 1965,1965-01-21,3090,824
+207,New Jersey witches football Club 1933,1933-07-26,3105,828
+208,Alabama geese football Club 1969,1969-09-07,3120,832
+209,Illinois werewolves football Club 1893,1893-12-11,3135,836
+210,Texas owls football Club 1949,1949-07-07,3150,840
+211,South Dakota horses football Club 1944,1944-10-27,3165,844
+212,Maryland chickens football Club 1848,1848-01-14,3180,848
+213,Kansas gooses football Club 1994,1994-05-03,3195,852
+214,New Hampshire giants football Club 1921,1921-06-20,3210,856
+215,Nevada bears football Club 1955,1955-03-09,3225,860
+216,Ohio werewolves football Club 1867,1867-04-17,3240,864
+217,South Dakota witches football Club 1978,1978-09-30,3255,868
+218,Nevada tigers football Club 1935,1935-02-22,3270,872
+219,Missouri goats football Club 1976,1976-07-02,3285,876
+220,Arkansas nemesis football Club 1885,1885-03-04,3300,880
+221,Alabama monkeys football Club 1826,1826-04-26,3315,884
+222,West Virginia conspirators football Club 1891,1891-04-01,3330,888
+223,New Jersey dragons football Club 1903,1903-12-16,3345,892
+224,Delaware worshipers football Club 1892,1892-06-06,3360,896
+225,Connecticut spirits football Club 1987,1987-09-10,3375,900
+226,Wisconsin chickens football Club 1893,1893-07-03,3390,904
+227,Arizona geese football Club 1987,1987-02-12,3405,908
+228,Pennsylvania sons football Club 1988,1988-06-25,3420,912
+229,Mississippi sorcerors football Club 1856,1856-09-04,3435,916
+230,Wisconsin druids football Club 1890,1890-07-06,3450,920
+231,Arkansas foes football Club 1879,1879-08-01,3465,924
+232,Louisiana druids football Club 1900,1900-07-02,3480,928
+233,California warlocks football Club 1880,1880-08-27,3495,932
+234,Missouri werewolves football Club 1931,1931-03-12,3510,936
+235,North Carolina lions football Club 1959,1959-04-22,3525,940
+236,Rhode Island dragons football Club 1894,1894-04-12,3540,944
+237,Georgia birds football Club 1861,1861-08-09,3555,948
+238,Massachusetts prophets football Club 1945,1945-06-24,3570,952
+239,New York zebras football Club 1832,1832-07-03,3585,956
+240,Ohio goblins football Club 1885,1885-10-14,3600,960
+241,Indiana zebras football Club 1950,1950-10-27,3615,964
+242,Connecticut zebras football Club 1845,1845-09-10,3630,968
+243,Maryland worshipers football Club 1978,1978-12-10,3645,972
+244,West Virginia foxes football Club 1879,1879-12-03,3660,976
+245,Mississippi foxes football Club 1841,1841-11-06,3675,980
+246,Illinois elephants football Club 1921,1921-08-21,3690,984
+247,Minnesota werewolves football Club 1937,1937-03-27,3705,988
+248,Idaho dwarves football Club 1867,1867-06-03,3720,992
+249,Louisiana foxes football Club 1938,1938-10-21,3735,996
+250,Arkansas foxes football Club 1903,1903-07-23,3750,1000
+251,South Carolina oxen football Club 1964,1964-06-07,3765,1004
+252,Arkansas prophets football Club 1869,1869-11-13,3780,1008
+253,Mississippi chickens football Club 1917,1917-12-18,3795,1012
+254,Maine monkeys football Club 1858,1858-08-11,3810,1016
+255,Maryland dogs football Club 1973,1973-12-18,3825,1020
+256,Vermont kangaroos football Club 1827,1827-10-15,3840,1024
+257,New York druids football Club 1926,1926-06-26,3855,1028
+258,Texas zombies football Club 1924,1924-11-26,3870,1032
+259,Maryland ducks football Club 1932,1932-06-05,3885,1036
+260,South Carolina giants football Club 1971,1971-06-09,3900,1040
+261,Montana warlocks football Club 1950,1950-05-14,3915,1044
+262,Rhode Island vixens football Club 1899,1899-01-22,3930,1048
+263,New Jersey conspirators football Club 1955,1955-12-18,3945,1052
+264,Georgia bears football Club 1933,1933-09-26,3960,1056
+265,South Dakota witches football Club 1872,1872-04-12,3975,1060
+266,North Carolina ogres football Club 1947,1947-05-04,3990,1064
+267,Idaho fishes football Club 1928,1928-09-20,4005,1068
+268,Idaho wolves football Club 1939,1939-08-07,4020,1072
+269,Minnesota lycanthropes football Club 1946,1946-09-09,4035,1076
+270,Wisconsin bears football Club 1993,1993-03-19,4050,1080
+271,Maine geese football Club 1839,1839-10-13,4065,1084
+272,Washington dolphins football Club 1884,1884-10-21,4080,1088
+273,Kansas penguins football Club 1857,1857-07-10,4095,1092
+274,Missouri zombies football Club 1889,1889-07-31,4110,1096
+275,New Hampshire rabbits football Club 1863,1863-05-22,4125,1100
+276,Alaska bears football Club 1882,1882-10-04,4140,1104
+277,Ohio crows football Club 1826,1826-12-31,4155,1108
+278,Kansas cats football Club 1937,1937-11-16,4170,1112
+279,Indiana worshipers football Club 1923,1923-01-20,4185,1116
+280,Vermont foes football Club 1941,1941-04-29,4200,1120
+281,Kansas werewolves football Club 1850,1850-11-25,4215,1124
+282,Nebraska spirits football Club 1845,1845-02-06,4230,1128
+283,Iowa bears football Club 1952,1952-06-22,4245,1132
+284,Nebraska zebras football Club 1938,1938-05-22,4260,1136
+285,North Dakota gooses football Club 1961,1961-12-17,4275,1140
+286,Maryland people football Club 1982,1982-05-08,4290,1144
+287,New Hampshire ants football Club 1835,1835-12-28,4305,1148
+288,New Jersey chimeras football Club 1854,1854-07-26,4320,1152
+289,Nevada frogs football Club 1950,1950-05-01,4335,1156
+290,Indiana sheep football Club 1916,1916-04-03,4350,1160
+291,Maryland exorcists football Club 1929,1929-06-03,4365,1164
+292,New Hampshire chimeras football Club 1981,1981-03-27,4380,1168
+293,South Carolina rabbits football Club 1917,1917-06-17,4395,1172
+294,Connecticut birds football Club 1947,1947-06-08,4410,1176
+295,New Hampshire zombies football Club 1968,1968-10-22,4425,1180
+296,Rhode Island spiders football Club 1910,1910-02-15,4440,1184
+297,South Dakota owls football Club 1982,1982-02-02,4455,1188
+298,Florida goblins football Club 1840,1840-12-01,4470,1192
+299,Illinois gnomes football Club 1881,1881-11-17,4485,1196
+300,Oregon elves football Club 1991,1991-10-11,4500,1200
+301,Indiana warlocks football Club 1965,1965-02-02,4515,1204
+302,California ogres football Club 1908,1908-03-05,4530,1208
+303,Vermont birds football Club 1837,1837-05-23,4545,1212
+304,Virginia enchanters football Club 1997,1997-11-01,4560,1216
+305,Indiana horses football Club 1850,1850-03-05,4575,1220
+306,Michigan buffalo football Club 1856,1856-12-23,4590,1224
+307,Pennsylvania kangaroos football Club 1838,1838-01-30,4605,1228
+308,Ohio zombies football Club 1836,1836-09-04,4620,1232
+309,Iowa sorcerors football Club 1996,1996-06-30,4635,1236
+310,Delaware lions football Club 1894,1894-10-17,4650,1240
+311,Colorado nemesis football Club 1917,1917-03-20,4665,1244
+312,Georgia geese football Club 1912,1912-12-19,4680,1248
+313,Michigan goats football Club 1915,1915-05-30,4695,1252
+314,Mississippi whales football Club 1945,1945-01-04,4710,1256
+315,Arkansas ants football Club 1920,1920-11-03,4725,1260
+316,North Dakota people football Club 1926,1926-08-04,4740,1264
+317,Maryland birds football Club 1944,1944-06-07,4755,1268
+318,Florida bears football Club 1846,1846-05-01,4770,1272
+319,Delaware dwarves football Club 1866,1866-01-01,4785,1276
+320,Oklahoma black cats football Club 1837,1837-03-13,4800,1280
+321,Florida elephants football Club 1870,1870-05-23,4815,1284
+322,Missouri sons football Club 1835,1835-01-04,4830,1288
+323,Missouri dwarves football Club 1867,1867-11-22,4845,1292
+324,Rhode Island sons football Club 1986,1986-08-12,4860,1296
+325,Alabama bees football Club 1896,1896-07-10,4875,1300
+326,Wisconsin penguins football Club 1864,1864-12-15,4890,1304
+327,Rhode Island dragons football Club 1964,1964-11-28,4905,1308
+328,Utah whales football Club 1997,1997-05-18,4920,1312
+329,North Carolina cattle football Club 1991,1991-03-11,4935,1316
+330,Arkansas horses football Club 1857,1857-07-27,4950,1320
+331,Rhode Island banshees football Club 1888,1888-02-25,4965,1324
+332,Illinois giants football Club 1926,1926-10-09,4980,1328
+333,Illinois banshees football Club 1937,1937-09-12,4995,1332
+334,Colorado goblins football Club 1995,1995-07-23,5010,1336
+335,New Jersey crows football Club 1898,1898-06-16,5025,1340
+336,Arizona ghosts football Club 1943,1943-10-07,5040,1344
+337,North Carolina pigs football Club 1968,1968-04-24,5055,1348
+338,Missouri fishes football Club 1979,1979-11-07,5070,1352
+339,Michigan gnomes football Club 1855,1855-01-18,5085,1356
+340,Montana geese football Club 1874,1874-09-11,5100,1360
+341,South Carolina sons football Club 1832,1832-08-28,5115,1364
+342,Rhode Island dolphins football Club 1985,1985-03-09,5130,1368
+343,Nebraska buffalo football Club 1856,1856-06-22,5145,1372
+344,Pennsylvania monkeys football Club 1972,1972-05-28,5160,1376
+345,Arizona zombies football Club 1867,1867-07-03,5175,1380
+346,Missouri kangaroos football Club 1882,1882-12-12,5190,1384
+347,Pennsylvania dogs football Club 1897,1897-06-03,5205,1388
+348,Washington oxen football Club 1956,1956-07-04,5220,1392
+349,Missouri enchanters football Club 1861,1861-05-09,5235,1396
+350,Texas rabbits football Club 1867,1867-10-20,5250,1400
+351,California druids football Club 1847,1847-08-15,5265,1404
+352,Illinois tigers football Club 1869,1869-04-02,5280,1408
+353,Missouri birds football Club 1942,1942-04-13,5295,1412
+354,New York dragons football Club 1840,1840-06-24,5310,1416
+355,Arkansas worshipers football Club 1868,1868-04-29,5325,1420
+356,Texas horses football Club 1866,1866-09-20,5340,1424
+357,Alaska crows football Club 1849,1849-03-29,5355,1428
+358,South Dakota cats football Club 1870,1870-10-22,5370,1432
+359,Montana warlocks football Club 1901,1901-09-21,5385,1436
+360,New Mexico monkeys football Club 1981,1981-04-15,5400,1440
+361,Utah people football Club 1853,1853-05-19,5415,1444
+362,Florida warlocks football Club 1835,1835-02-28,5430,1448
+363,Illinois frogs football Club 1861,1861-03-22,5445,1452
+364,North Carolina frogs football Club 1838,1838-11-07,5460,1456
+365,Tennessee werewolves football Club 1951,1951-05-19,5475,1460
+366,Tennessee pigs football Club 1904,1904-10-16,5490,1464
+367,Arkansas spirits football Club 1866,1866-08-11,5505,1468
+368,Wisconsin horses football Club 1842,1842-12-28,5520,1472
+369,Colorado oxen football Club 1844,1844-06-09,5535,1476
+370,Alabama tigers football Club 1995,1995-04-17,5550,1480
+371,North Dakota chimeras football Club 1839,1839-10-01,5565,1484
+372,South Dakota cattle football Club 1968,1968-03-09,5580,1488
+373,Kentucky fishes football Club 1893,1893-06-20,5595,1492
+374,Utah nemesis football Club 1915,1915-12-01,5610,1496
+375,Pennsylvania bears football Club 1956,1956-08-11,5625,1500
+376,Delaware lycanthropes football Club 1858,1858-04-10,5640,1504
+377,Utah crows football Club 1852,1852-03-07,5655,1508
+378,Indiana ghosts football Club 1938,1938-06-28,5670,1512
+379,Missouri foxes football Club 1946,1946-03-24,5685,1516
+380,North Dakota giants football Club 1955,1955-06-10,5700,1520
+381,Utah lions football Club 1906,1906-02-17,5715,1524
+382,Colorado elves football Club 1998,1998-12-10,5730,1528
+383,Kentucky giants football Club 1860,1860-12-14,5745,1532
+384,Indiana chickens football Club 1828,1828-08-10,5760,1536
+385,Colorado giants football Club 1886,1886-12-29,5775,1540
+386,Arizona whales football Club 2000,2000-11-21,5790,1544
+387,Tennessee gooses football Club 1958,1958-07-18,5805,1548
+388,South Carolina zombies football Club 1959,1959-06-05,5820,1552
+389,Oregon oxen football Club 1879,1879-05-16,5835,1556
+390,Montana ants football Club 1921,1921-01-11,5850,1560
+391,Michigan rabbits football Club 1959,1959-06-10,5865,1564
+392,Iowa dogs football Club 1899,1899-05-07,5880,1568
+393,Idaho goblins football Club 1887,1887-08-02,5895,1572
+394,Delaware dogs football Club 1859,1859-12-09,5910,1576
+395,Iowa warlocks football Club 1948,1948-05-27,5925,1580
+396,Pennsylvania oxen football Club 1951,1951-06-27,5940,1584
+397,Maryland rabbits football Club 1866,1866-12-24,5955,1588
+398,Idaho ducks football Club 1921,1921-08-26,5970,1592
+399,West Virginia geese football Club 1926,1926-03-17,5985,1596
+400,Connecticut ants football Club 1950,1950-04-02,6000,1600
+401,Texas werewolves football Club 1863,1863-02-19,6015,1604
+402,Louisiana werewolves football Club 1958,1958-10-09,6030,1608
+403,Michigan worshipers football Club 1971,1971-07-25,6045,1612
+404,Wisconsin gooses football Club 1953,1953-10-24,6060,1616
+405,North Carolina gooses football Club 1919,1919-03-20,6075,1620
+406,North Dakota warlocks football Club 1982,1982-12-29,6090,1624
+407,Tennessee buffalo football Club 1981,1981-07-29,6105,1628
+408,Florida black cats football Club 1945,1945-11-17,6120,1632
+409,Tennessee birds football Club 1903,1903-12-20,6135,1636
+410,Georgia sorcerors football Club 1873,1873-06-02,6150,1640
+411,Maine monkeys football Club 1888,1888-09-15,6165,1644
+412,Maryland goblins football Club 1853,1853-09-03,6180,1648
+413,Vermont dragons football Club 1994,1994-10-06,6195,1652
+414,Louisiana frogs football Club 1877,1877-10-21,6210,1656
+415,Ohio rabbits football Club 1829,1829-02-23,6225,1660
+416,South Dakota chickens football Club 1909,1909-12-25,6240,1664
+417,New Jersey oxen football Club 1859,1859-12-27,6255,1668
+418,Virginia druids football Club 1973,1973-11-29,6270,1672
+419,Wyoming tigers football Club 1829,1829-10-17,6285,1676
+420,South Dakota sorcerors football Club 1948,1948-11-30,6300,1680
+421,Montana rabbits football Club 1840,1840-07-04,6315,1684
+422,New Mexico sorcerors football Club 1959,1959-11-18,6330,1688
+423,Nevada elves football Club 1978,1978-04-27,6345,1692
+424,Mississippi gooses football Club 1955,1955-07-10,6360,1696
+425,Louisiana exorcists football Club 1906,1906-01-06,6375,1700
+426,Delaware warlocks football Club 1959,1959-11-23,6390,1704
+427,Mississippi pigs football Club 1916,1916-05-03,6405,1708
+428,Maryland sons football Club 1863,1863-01-12,6420,1712
+429,Nebraska rabbits football Club 1957,1957-06-04,6435,1716
+430,Connecticut buffalo football Club 1885,1885-03-15,6450,1720
+431,Tennessee birds football Club 1939,1939-12-11,6465,1724
+432,Nebraska conspirators football Club 1948,1948-10-08,6480,1728
+433,Louisiana bats football Club 1932,1932-02-27,6495,1732
+434,Delaware frogs football Club 1907,1907-04-17,6510,1736
+435,Colorado chimeras football Club 1939,1939-11-02,6525,1740
+436,North Carolina rabbits football Club 1968,1968-11-06,6540,1744
+437,Indiana griffins football Club 1888,1888-03-01,6555,1748
+438,Mississippi rabbits football Club 1991,1991-04-18,6570,1752
+439,Nebraska bees football Club 1922,1922-03-19,6585,1756
+440,New Jersey horses football Club 1938,1938-08-14,6600,1760
+441,Montana fishes football Club 1903,1903-03-31,6615,1764
+442,Wyoming vixens football Club 1892,1892-09-16,6630,1768
+443,South Carolina whales football Club 1858,1858-10-23,6645,1772
+444,Rhode Island zebras football Club 1969,1969-02-04,6660,1776
+445,New Jersey vixens football Club 1830,1830-06-25,6675,1780
+446,North Carolina sons football Club 1855,1855-09-11,6690,1784
+447,Georgia rabbits football Club 1860,1860-09-29,6705,1788
+448,Louisiana rabbits football Club 1833,1833-06-10,6720,1792
+449,Alabama tigers football Club 1941,1941-12-17,6735,1796
+450,Florida people football Club 1936,1936-09-06,6750,1800
+451,Wyoming dragons football Club 1872,1872-06-05,6765,1804
+452,Wisconsin werewolves football Club 1851,1851-09-12,6780,1808
+453,West Virginia whales football Club 1992,1992-03-22,6795,1812
+454,Arizona elves football Club 1989,1989-05-12,6810,1816
+455,Michigan banshees football Club 1865,1865-06-05,6825,1820
+456,Washington ducks football Club 1905,1905-11-24,6840,1824
+457,Kansas kangaroos football Club 1861,1861-12-23,6855,1828
+458,Wisconsin ogres football Club 1983,1983-10-31,6870,1832
+459,Florida people football Club 1871,1871-09-17,6885,1836
+460,Washington sorcerors football Club 1843,1843-05-08,6900,1840
+461,Indiana fishes football Club 1918,1918-12-26,6915,1844
+462,South Dakota banshees football Club 1919,1919-04-07,6930,1848
+463,New Hampshire ants football Club 1990,1990-02-17,6945,1852
+464,South Carolina worshipers football Club 1857,1857-05-15,6960,1856
+465,Ohio kangaroos football Club 1851,1851-05-01,6975,1860
+466,Utah zebras football Club 1902,1902-03-06,6990,1864
+467,Virginia cats football Club 1978,1978-07-16,7005,1868
+468,South Dakota birds football Club 1971,1971-06-03,7020,1872
+469,Iowa elves football Club 1911,1911-12-02,7035,1876
+470,Georgia conspirators football Club 1919,1919-12-02,7050,1880
+471,Michigan oracles football Club 1959,1959-10-06,7065,1884
+472,Ohio people football Club 1952,1952-04-03,7080,1888
+473,Kansas penguins football Club 1873,1873-07-05,7095,1892
+474,Virginia oracles football Club 1989,1989-12-06,7110,1896
+475,Texas ogres football Club 1904,1904-01-21,7125,1900
+476,Washington horses football Club 1971,1971-03-16,7140,1904
+477,Nevada oxen football Club 1906,1906-03-12,7155,1908
+478,New Hampshire wolves football Club 1963,1963-07-23,7170,1912
+479,Ohio warlocks football Club 1967,1967-11-26,7185,1916
+480,Missouri cats football Club 1864,1864-08-15,7200,1920
+481,Georgia worshipers football Club 1965,1965-01-02,7215,1924
+482,Kentucky zombies football Club 1867,1867-10-24,7230,1928
+483,Maryland chickens football Club 1830,1830-05-06,7245,1932
+484,Minnesota warlocks football Club 1930,1930-04-06,7260,1936
+485,Oregon enchanters football Club 1839,1839-12-06,7275,1940
+486,Oklahoma elves football Club 1841,1841-06-06,7290,1944
+487,Rhode Island dragons football Club 2000,2000-07-27,7305,1948
+488,Missouri foxes football Club 1880,1880-12-18,7320,1952
+489,Wisconsin whales football Club 1966,1966-07-05,7335,1956
+490,New Hampshire black cats football Club 1842,1842-02-13,7350,1960
+491,New Hampshire lions football Club 1856,1856-08-05,7365,1964
+492,Minnesota elephants football Club 1915,1915-02-26,7380,1968
+493,Michigan people football Club 1865,1865-10-31,7395,1972
+494,Louisiana sorcerors football Club 1935,1935-08-12,7410,1976
+495,Delaware sheep football Club 1840,1840-02-10,7425,1980
+496,Pennsylvania oxen football Club 1827,1827-11-27,7440,1984
+497,Rhode Island witches football Club 1872,1872-08-24,7455,1988
+498,New Jersey wolves football Club 1926,1926-12-04,7470,1992
+499,Missouri oracles football Club 1903,1903-01-05,7485,1996
+500,California dwarves football Club 1877,1877-12-10,7500,2000
+501,South Dakota penguins football Club 1913,1913-03-20,7515,2004
+502,Oklahoma witches football Club 1839,1839-12-03,7530,2008
+503,Delaware owls football Club 1984,1984-10-17,7545,2012
+504,Indiana horses football Club 1906,1906-12-09,7560,2016
+505,Iowa crows football Club 1841,1841-07-31,7575,2020
+506,Idaho sons football Club 1840,1840-02-18,7590,2024
+507,New Hampshire zombies football Club 1871,1871-11-02,7605,2028
+508,Vermont warlocks football Club 1938,1938-11-18,7620,2032
+509,Vermont gooses football Club 1964,1964-06-13,7635,2036
+510,Connecticut spirits football Club 1948,1948-02-23,7650,2040
+511,Texas foxes football Club 1996,1996-05-24,7665,2044
+512,Vermont spiders football Club 1890,1890-04-09,7680,2048
+513,Idaho vixens football Club 1904,1904-07-11,7695,2052
+514,Maine sorcerors football Club 1956,1956-04-10,7710,2056
+515,Wisconsin foxes football Club 1929,1929-09-21,7725,2060
+516,Hawaii birds football Club 1999,1999-09-12,7740,2064
+517,Wyoming cats football Club 1868,1868-10-08,7755,2068
+518,Wyoming zombies football Club 1952,1952-06-09,7770,2072
+519,Rhode Island vixens football Club 1898,1898-05-11,7785,2076
+520,Florida fishes football Club 1921,1921-08-31,7800,2080
+521,Alaska gnomes football Club 1987,1987-12-03,7815,2084
+522,South Carolina exorcists football Club 1845,1845-01-17,7830,2088
+523,Vermont gnomes football Club 1989,1989-02-05,7845,2092
+524,California spiders football Club 1989,1989-11-05,7860,2096
+525,Michigan lycanthropes football Club 1973,1973-11-05,7875,2100
+526,Texas tigers football Club 1836,1836-09-22,7890,2104
+527,New Hampshire spiders football Club 1928,1928-11-01,7905,2108
+528,Arizona wolves football Club 1856,1856-08-18,7920,2112
+529,Massachusetts kangaroos football Club 1942,1942-08-28,7935,2116
+530,Illinois fishes football Club 1976,1976-06-19,7950,2120
+531,North Dakota werewolves football Club 1844,1844-03-30,7965,2124
+532,New Hampshire owls football Club 1868,1868-08-10,7980,2128
+533,Montana kangaroos football Club 1874,1874-03-01,7995,2132
+534,Mississippi dragons football Club 1833,1833-05-30,8010,2136
+535,Alaska foxes football Club 1903,1903-05-12,8025,2140
+536,Iowa enchanters football Club 1955,1955-09-13,8040,2144
+537,Nebraska chimeras football Club 1856,1856-12-13,8055,2148
+538,Michigan foxes football Club 1987,1987-03-12,8070,2152
+539,Kentucky black cats football Club 1957,1957-10-19,8085,2156
+540,Pennsylvania druids football Club 1974,1974-04-25,8100,2160
+541,Alaska werewolves football Club 1870,1870-11-22,8115,2164
+542,Ohio bats football Club 1900,1900-03-30,8130,2168
+543,Connecticut gnomes football Club 1894,1894-10-19,8145,2172
+544,New York penguins football Club 1988,1988-11-03,8160,2176
+545,Ohio ducks football Club 1872,1872-09-07,8175,2180
+546,Hawaii people football Club 1951,1951-07-12,8190,2184
+547,Georgia vixens football Club 1889,1889-07-05,8205,2188
+548,South Dakota lycanthropes football Club 2000,2000-06-19,8220,2192
+549,Kentucky buffalo football Club 1876,1876-11-16,8235,2196
+550,Montana nemesis football Club 1945,1945-10-27,8250,2200
+551,West Virginia foxes football Club 1987,1987-04-23,8265,2204
+552,Alaska crows football Club 1995,1995-03-04,8280,2208
+553,Oklahoma bats football Club 1918,1918-01-03,8295,2212
+554,Vermont lycanthropes football Club 1862,1862-10-27,8310,2216
+555,Idaho zombies football Club 1929,1929-05-08,8325,2220
+556,Mississippi goblins football Club 1838,1838-12-01,8340,2224
+557,Washington zombies football Club 1955,1955-02-10,8355,2228
+558,West Virginia oracles football Club 1915,1915-05-29,8370,2232
+559,Mississippi ogres football Club 1871,1871-03-22,8385,2236
+560,Arizona gnomes football Club 1922,1922-01-29,8400,2240
+561,North Carolina people football Club 1924,1924-05-13,8415,2244
+562,Hawaii spirits football Club 1946,1946-11-20,8430,2248
+563,Utah ogres football Club 1879,1879-02-27,8445,2252
+564,Florida foes football Club 1841,1841-08-30,8460,2256
+565,Oklahoma sheep football Club 1909,1909-09-07,8475,2260
+566,Iowa geese football Club 1993,1993-04-04,8490,2264
+567,Alaska monkeys football Club 1899,1899-04-14,8505,2268
+568,Iowa ants football Club 1956,1956-08-16,8520,2272
+569,South Carolina chickens football Club 1970,1970-02-26,8535,2276
+570,Delaware prophets football Club 1848,1848-12-03,8550,2280
+571,Arizona lycanthropes football Club 1915,1915-03-05,8565,2284
+572,Delaware giants football Club 1947,1947-07-13,8580,2288
+573,Connecticut bees football Club 1952,1952-10-13,8595,2292
+574,New Hampshire black cats football Club 1958,1958-08-22,8610,2296
+575,Kansas foxes football Club 1980,1980-01-19,8625,2300
+576,North Dakota sorcerors football Club 1954,1954-12-04,8640,2304
+577,Kansas ghosts football Club 1895,1895-12-08,8655,2308
+578,Nebraska warlocks football Club 1915,1915-04-03,8670,2312
+579,Louisiana werewolves football Club 1935,1935-09-01,8685,2316
+580,Iowa whales football Club 1944,1944-05-18,8700,2320
+581,Georgia pigs football Club 1836,1836-10-24,8715,2324
+582,Illinois werewolves football Club 1834,1834-06-17,8730,2328
+583,Kansas geese football Club 1878,1878-01-07,8745,2332
+584,Wisconsin geese football Club 1979,1979-11-19,8760,2336
+585,Alaska people football Club 1873,1873-09-09,8775,2340
+586,Pennsylvania goats football Club 1935,1935-01-06,8790,2344
+587,South Dakota ogres football Club 1964,1964-01-12,8805,2348
+588,Alaska people football Club 1992,1992-01-21,8820,2352
+589,South Dakota ghosts football Club 1892,1892-08-18,8835,2356
+590,New Mexico gooses football Club 1944,1944-11-12,8850,2360
+591,Missouri black cats football Club 1867,1867-06-22,8865,2364
+592,Nebraska elves football Club 1829,1829-06-14,8880,2368
+593,Colorado gnomes football Club 1867,1867-11-05,8895,2372
+594,Pennsylvania chickens football Club 1864,1864-04-01,8910,2376
+595,Louisiana foxes football Club 1950,1950-10-02,8925,2380
+596,Ohio nemesis football Club 1945,1945-06-15,8940,2384
+597,Michigan conspirators football Club 1990,1990-02-16,8955,2388
+598,Mississippi werewolves football Club 1991,1991-06-29,8970,2392
+599,Tennessee people football Club 1851,1851-07-29,8985,2396
+600,New York griffins football Club 1831,1831-07-03,9000,2400
+601,Kentucky sorcerors football Club 1943,1943-03-23,9015,2404
+602,Tennessee ducks football Club 1965,1965-09-01,9030,2408
+603,Mississippi monkeys football Club 1943,1943-12-06,9045,2412
+604,Kansas ants football Club 1998,1998-04-19,9060,2416
+605,Maryland oracles football Club 1942,1942-07-06,9075,2420
+606,Oregon zebras football Club 1905,1905-11-09,9090,2424
+607,Florida ants football Club 1856,1856-04-02,9105,2428
+608,Alaska people football Club 1829,1829-02-04,9120,2432
+609,Connecticut dogs football Club 1825,1825-10-22,9135,2436
+610,Indiana ants football Club 1858,1858-06-07,9150,2440
+611,Ohio goblins football Club 1950,1950-08-17,9165,2444
+612,New Hampshire frogs football Club 1824,1824-12-06,9180,2448
+613,Georgia bears football Club 1992,1992-01-31,9195,2452
+614,Vermont nemesis football Club 1824,1824-12-19,9210,2456
+615,Connecticut goblins football Club 2000,2000-09-05,9225,2460
+616,New Hampshire frogs football Club 1831,1831-03-02,9240,2464
+617,Connecticut penguins football Club 1927,1927-09-15,9255,2468
+618,Vermont monkeys football Club 1916,1916-09-03,9270,2472
+619,Oklahoma foes football Club 1823,1823-12-28,9285,2476
+620,Connecticut ogres football Club 1842,1842-06-26,9300,2480
+621,Utah sheep football Club 1924,1924-08-16,9315,2484
+622,Pennsylvania bears football Club 1911,1911-11-27,9330,2488
+623,Kentucky oracles football Club 1898,1898-01-26,9345,2492
+624,West Virginia foes football Club 1863,1863-01-31,9360,2496
+625,Alabama ghosts football Club 1852,1852-03-17,9375,2500
+626,New York pigs football Club 1906,1906-09-14,9390,2504
+627,Ohio cats football Club 1830,1830-08-15,9405,2508
+628,Georgia vixens football Club 1926,1926-02-16,9420,2512
+629,Hawaii frogs football Club 1869,1869-07-11,9435,2516
+630,Nebraska zebras football Club 1836,1836-03-03,9450,2520
+631,New York oxen football Club 1901,1901-04-30,9465,2524
+632,Illinois lions football Club 1892,1892-11-18,9480,2528
+633,Wisconsin goblins football Club 1899,1899-08-03,9495,2532
+634,Minnesota pigs football Club 1851,1851-01-01,9510,2536
+635,Rhode Island foxes football Club 1906,1906-12-28,9525,2540
+636,Idaho elephants football Club 1836,1836-01-23,9540,2544
+637,Missouri dolphins football Club 1882,1882-12-15,9555,2548
+638,Louisiana zombies football Club 1846,1846-05-02,9570,2552
+639,Illinois horses football Club 1872,1872-05-29,9585,2556
+640,Alaska giants football Club 1971,1971-08-02,9600,2560
+641,Rhode Island prophets football Club 1860,1860-09-12,9615,2564
+642,Delaware owls football Club 1839,1839-10-17,9630,2568
+643,Montana bees football Club 1979,1979-02-21,9645,2572
+644,Louisiana spirits football Club 1891,1891-08-11,9660,2576
+645,Maryland zombies football Club 1924,1924-01-13,9675,2580
+646,Maryland warlocks football Club 1928,1928-12-22,9690,2584
+647,Illinois zebras football Club 1886,1886-08-28,9705,2588
+648,Utah wolves football Club 1923,1923-05-20,9720,2592
+649,Vermont lycanthropes football Club 1937,1937-12-15,9735,2596
+650,Massachusetts bees football Club 1833,1833-03-04,9750,2600
+651,Nevada goblins football Club 1967,1967-05-08,9765,2604
+652,Maryland prophets football Club 1925,1925-12-05,9780,2608
+653,Idaho birds football Club 1949,1949-01-23,9795,2612
+654,Arkansas fishes football Club 1996,1996-10-17,9810,2616
+655,South Carolina giants football Club 1980,1980-01-05,9825,2620
+656,Ohio sons football Club 1957,1957-06-02,9840,2624
+657,Oklahoma chickens football Club 1901,1901-04-04,9855,2628
+658,Colorado bees football Club 1920,1920-12-30,9870,2632
+659,Texas pigs football Club 1987,1987-01-21,9885,2636
+660,South Carolina spiders football Club 1885,1885-10-14,9900,2640
+661,Vermont zombies football Club 1913,1913-01-29,9915,2644
+662,Mississippi oracles football Club 1863,1863-07-30,9930,2648
+663,Vermont worshipers football Club 2000,2000-01-28,9945,2652
+664,Arizona nemesis football Club 1843,1843-11-01,9960,2656
+665,North Dakota people football Club 1834,1834-09-17,9975,2660
+666,North Dakota druids football Club 1877,1877-05-18,9990,2664
+667,Vermont dogs football Club 1833,1833-11-11,10005,2668
+668,New Hampshire spirits football Club 1845,1845-01-31,10020,2672
+669,Rhode Island bears football Club 1865,1865-05-22,10035,2676
+670,Maine fishes football Club 1991,1991-02-24,10050,2680
+671,Oregon worshipers football Club 1824,1824-01-27,10065,2684
+672,West Virginia elves football Club 1983,1983-08-15,10080,2688
+673,Mississippi prophets football Club 1969,1969-09-05,10095,2692
+674,Minnesota geese football Club 1918,1918-01-29,10110,2696
+675,Kansas gooses football Club 1988,1988-05-21,10125,2700
+676,Connecticut exorcists football Club 1852,1852-09-12,10140,2704
+677,Delaware sorcerors football Club 1833,1833-11-11,10155,2708
+678,Maine elephants football Club 1881,1881-08-30,10170,2712
+679,Rhode Island sheep football Club 1959,1959-06-05,10185,2716
+680,Montana nemesis football Club 1858,1858-09-27,10200,2720
+681,Delaware wolves football Club 1945,1945-07-08,10215,2724
+682,Kansas chickens football Club 1849,1849-05-22,10230,2728
+683,Utah frogs football Club 1926,1926-01-30,10245,2732
+684,Vermont worshipers football Club 1966,1966-01-24,10260,2736
+685,Nevada ogres football Club 1873,1873-02-27,10275,2740
+686,Missouri vampires football Club 1964,1964-01-01,10290,2744
+687,Nebraska pigs football Club 1853,1853-05-27,10305,2748
+688,Illinois wolves football Club 1914,1914-06-06,10320,2752
+689,Alaska giants football Club 1981,1981-02-10,10335,2756
+690,Wyoming black cats football Club 1989,1989-06-29,10350,2760
+691,Montana horses football Club 1848,1848-04-13,10365,2764
+692,Texas conspirators football Club 1889,1889-01-14,10380,2768
+693,Idaho witches football Club 1855,1855-08-30,10395,2772
+694,Hawaii vixens football Club 1840,1840-02-14,10410,2776
+695,South Dakota witches football Club 1940,1940-11-05,10425,2780
+696,Virginia gooses football Club 1869,1869-10-04,10440,2784
+697,Minnesota buffalo football Club 1993,1993-08-26,10455,2788
+698,Kansas black cats football Club 1871,1871-10-02,10470,2792
+699,Georgia kangaroos football Club 1861,1861-08-15,10485,2796
+700,Texas whales football Club 1858,1858-11-11,10500,2800
+701,North Dakota elves football Club 1967,1967-05-23,10515,2804
+702,Delaware lions football Club 1890,1890-01-14,10530,2808
+703,Maryland warlocks football Club 1868,1868-08-02,10545,2812
+704,Minnesota crows football Club 1892,1892-01-06,10560,2816
+705,Wisconsin ants football Club 1940,1940-08-18,10575,2820
+706,Massachusetts cats football Club 1933,1933-12-12,10590,2824
+707,North Carolina spiders football Club 1955,1955-01-12,10605,2828
+708,Connecticut conspirators football Club 1943,1943-03-13,10620,2832
+709,Montana dogs football Club 1865,1865-11-02,10635,2836
+710,Nebraska whales football Club 1954,1954-02-09,10650,2840
+711,New York owls football Club 1918,1918-09-29,10665,2844
+712,Wyoming horses football Club 1824,1824-06-06,10680,2848
+713,Washington wolves football Club 1829,1829-04-09,10695,2852
+714,Pennsylvania buffalo football Club 1893,1893-06-01,10710,2856
+715,Alaska buffalo football Club 1997,1997-01-11,10725,2860
+716,Mississippi ants football Club 1990,1990-05-23,10740,2864
+717,Illinois bears football Club 1958,1958-02-28,10755,2868
+718,Ohio buffalo football Club 1993,1993-09-14,10770,2872
+719,Alabama exorcists football Club 1869,1869-11-07,10785,2876
+720,Rhode Island dragons football Club 1880,1880-06-02,10800,2880
+721,Kansas lions football Club 1941,1941-04-09,10815,2884
+722,Vermont monkeys football Club 1932,1932-09-10,10830,2888
+723,Kansas dragons football Club 1961,1961-03-31,10845,2892
+724,New York nemesis football Club 1900,1900-10-27,10860,2896
+725,California monkeys football Club 1862,1862-09-25,10875,2900
+726,Alabama wolves football Club 1869,1869-07-07,10890,2904
+727,Wyoming black cats football Club 1945,1945-05-26,10905,2908
+728,Pennsylvania gooses football Club 1916,1916-11-14,10920,2912
+729,Arkansas werewolves football Club 1836,1836-01-07,10935,2916
+730,Connecticut nemesis football Club 1909,1909-03-27,10950,2920
+731,North Dakota cattle football Club 1973,1973-04-27,10965,2924
+732,Florida chickens football Club 1895,1895-10-08,10980,2928
+733,Alaska oxen football Club 1919,1919-03-18,10995,2932
+734,Arizona gooses football Club 1853,1853-05-24,11010,2936
+735,Wyoming oracles football Club 1994,1994-08-07,11025,2940
+736,Hawaii worshipers football Club 1846,1846-02-22,11040,2944
+737,Maryland tigers football Club 1993,1993-07-28,11055,2948
+738,Maryland dolphins football Club 1921,1921-11-25,11070,2952
+739,Kentucky owls football Club 1934,1934-01-01,11085,2956
+740,Delaware ogres football Club 1958,1958-12-28,11100,2960
+741,California gooses football Club 1948,1948-09-08,11115,2964
+742,Georgia elves football Club 1890,1890-12-25,11130,2968
+743,Utah monkeys football Club 1900,1900-02-16,11145,2972
+744,Mississippi conspirators football Club 1986,1986-01-17,11160,2976
+745,Delaware whales football Club 1882,1882-04-12,11175,2980
+746,North Dakota warlocks football Club 1972,1972-02-16,11190,2984
+747,Indiana people football Club 1858,1858-08-12,11205,2988
+748,Louisiana warlocks football Club 1893,1893-10-13,11220,2992
+749,Minnesota kangaroos football Club 1874,1874-07-15,11235,2996
+750,Utah ducks football Club 1996,1996-03-08,11250,3000
+751,Montana banshees football Club 1901,1901-05-23,11265,3004
+752,Connecticut lions football Club 1829,1829-04-21,11280,3008
+753,Idaho monkeys football Club 1955,1955-03-14,11295,3012
+754,New Hampshire kangaroos football Club 1829,1829-07-14,11310,3016
+755,Nebraska horses football Club 1975,1975-08-05,11325,3020
+756,South Dakota exorcists football Club 1914,1914-07-01,11340,3024
+757,Kansas crows football Club 1833,1833-08-11,11355,3028
+758,Rhode Island banshees football Club 1838,1838-10-29,11370,3032
+759,Delaware dwarves football Club 1912,1912-11-17,11385,3036
+760,Indiana cats football Club 1915,1915-03-07,11400,3040
+761,North Carolina conspirators football Club 1881,1881-05-05,11415,3044
+762,New Hampshire bears football Club 1936,1936-01-07,11430,3048
+763,Idaho enchanters football Club 1832,1832-02-19,11445,3052
+764,Iowa lions football Club 1842,1842-04-23,11460,3056
+765,North Carolina vixens football Club 1890,1890-10-18,11475,3060
+766,Iowa enchanters football Club 1998,1998-05-19,11490,3064
+767,Illinois cattle football Club 1956,1956-11-27,11505,3068
+768,Montana banshees football Club 1950,1950-10-22,11520,3072
+769,Georgia frogs football Club 1993,1993-12-31,11535,3076
+770,Georgia sons football Club 1830,1830-12-06,11550,3080
+771,Texas sheep football Club 1978,1978-12-06,11565,3084
+772,Kansas oxen football Club 1984,1984-06-15,11580,3088
+773,New York ogres football Club 1870,1870-10-27,11595,3092
+774,Arizona ghosts football Club 1888,1888-01-29,11610,3096
+775,Wisconsin frogs football Club 1919,1919-11-01,11625,3100
+776,South Dakota bees football Club 1920,1920-08-28,11640,3104
+777,Mississippi zombies football Club 1867,1867-12-31,11655,3108
+778,New Mexico vixens football Club 1971,1971-02-05,11670,3112
+779,Washington ants football Club 1895,1895-11-02,11685,3116
+780,Hawaii black cats football Club 1903,1903-06-12,11700,3120
+781,Idaho buffalo football Club 1942,1942-12-24,11715,3124
+782,Rhode Island oxen football Club 1919,1919-05-06,11730,3128
+783,Texas gooses football Club 1998,1998-12-12,11745,3132
+784,Maine zebras football Club 1898,1898-12-20,11760,3136
+785,Vermont penguins football Club 1859,1859-12-08,11775,3140
+786,North Carolina black cats football Club 1987,1987-09-14,11790,3144
+787,Washington cattle football Club 1834,1834-03-13,11805,3148
+788,North Dakota penguins football Club 1872,1872-09-03,11820,3152
+789,Kansas dwarves football Club 1892,1892-08-06,11835,3156
+790,Utah druids football Club 1961,1961-02-14,11850,3160
+791,Maryland dogs football Club 1881,1881-02-21,11865,3164
+792,New Hampshire bats football Club 1871,1871-08-27,11880,3168
+793,Iowa zebras football Club 1845,1845-01-08,11895,3172
+794,Alaska prophets football Club 1979,1979-09-28,11910,3176
+795,California zebras football Club 1982,1982-04-05,11925,3180
+796,Maryland nemesis football Club 1933,1933-03-12,11940,3184
+797,Kansas monkeys football Club 1943,1943-12-27,11955,3188
+798,Delaware bees football Club 1969,1969-06-10,11970,3192
+799,North Dakota frogs football Club 1960,1960-04-27,11985,3196
+800,New York dogs football Club 1994,1994-01-20,12000,3200
