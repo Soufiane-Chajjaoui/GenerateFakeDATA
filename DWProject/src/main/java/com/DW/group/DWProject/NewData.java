@@ -22,24 +22,24 @@ public class NewData {
 				FileWriter csvReferee = new FileWriter("newGenerateData/Referee.csv")) {
 
 			// Writing header to CSV file
-			csvTeam.append("TeamID,TeamName,Country,Coach\n");
+			csvTeam.append("TeamID,TeamName,Coach\n");
 			csvStadium.append("StadiumID,StadiumName,Location,Capacity\n");
 			csvReferee.append("RefereeID,RefereeName,Nationality,age\n");
 			csvDateMatch.append("DateID , date\n");
 			csvMatch.append(
-					"idMatch , HomeTeam , AwayTeam , StadiumID , RefereeID , DateID , GoalsHome , GoalsAway\n");
+					"idMatch , HomeTeam , AwayTeam , StadiumID ,Attendance , RefereeID , DateID , GoalsHome , GoalsAway\n");
 
 			Address address = faker.address();
 			// Generating and writing data to CSV
 			for (int i = 1; i <= 20; i++) {
 				String teamName = faker.team().name();
-				String country = address.country();
+//				String country = address.country();
 				String coach = faker.name().fullName();
 
-				csvTeam.append(i + "," + teamName + "," + country + "," + coach + "\n");
+				csvTeam.append(i + "," + teamName  + "," + coach + "\n");
 
 				String stadiumName = address.city() + " stade " + i;
-				String location = address.city() + ", " + address.country();
+				String location = address.city() + " " + address.country();
 				int capacity = faker.number().numberBetween(10000, 80000);
 
 				csvStadium.append(i + "," + stadiumName + "," + location + "," + capacity + "\n");
@@ -71,10 +71,11 @@ public class NewData {
 					for (int m = awayteam; m >= hometeam; m--) {
 						if (j != m) {
 							matches.add(new Match(j, m));
+							csvMatch.append(idMatch + "," + j + "," + m + "," + j 
+									+ "," + new Random().nextInt(20000 , 60000) + "," + new Random().nextInt(1 , 11)
+									+ "," + new Random().nextInt(1 , 181)+ "," + new Random().nextInt(1,6) + "," 
+									+ new Random().nextInt(1,6) + "\n");
 							idMatch++;
-							csvMatch.append(idMatch + "," + hometeam + "," + "," + awayteam + "," + hometeam 
-									+ "," + new Random().nextInt(1 , 11) + "," + new Random().nextInt(1 , 181)
-									+ new Random().nextInt(1,6) + "," + new Random().nextInt(1,6) + "\n");
 						}
 					}
 				}
